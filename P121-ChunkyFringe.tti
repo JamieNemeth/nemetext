@@ -1,14 +1,10 @@
-DE,GameBlast
-DS,inserter
-SP,D:\xampp\htdocs\teletext\nemetext\P129-ChunkyFringe.tti
-PN,12901
+DE,Chunky Fringe
+PN,12100
 SC,0000
 PS,8000
 CT,15,T
-RE,0
 OL,0,        E%%_ Ux]G NemetextU'^\ E%H:%M:%S
 OL,2,D]MGCHUNKY FRINGE, HARROW: 29 JULY '23  
-OL,3,A]                                      
 OL,5, Chunky Fringe is a free event for all  
 OL,6, things Teletext...and if all goes to   
 OL,7, plan, Jamie'll be doing a live stream! 
@@ -22,4 +18,4 @@ OL,16, The event runs from 11am to 5:30pm.
 OL,18, More information can be found here:    
 OL,19,Farbitraryfiles.com/events/cf23         
 OL,24,AIndex                                  
-FL,100,0,0,0,8ff,100
+FL,100,8ff,8ff,8ff,8ff,100
