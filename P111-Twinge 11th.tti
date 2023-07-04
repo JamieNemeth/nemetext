@@ -3,6 +3,7 @@ PN,11001
 SC,0001
 PS,8000
 CT,8,T
+OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
 OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
 OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
@@ -30,6 +31,7 @@ PN,11002
 SC,0002
 PS,8000
 CT,8,T
+OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
 OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
 OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
@@ -56,6 +58,7 @@ PN,11003
 SC,0003
 PS,8000
 CT,8,T
+OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
 OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
 OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
