@@ -1,0 +1,28 @@
+DE,About Teletext
+DS,inserter
+SP,D:\xampp\htdocs\teletext\nemetext\P102-AboutTeletext.tti
+PN,10201
+SC,0000
+PS,8000
+CT,15,T
+RE,0
+OL,0,        E%%_ Ux]G NemetextU'^\ E%H:%M:%S
+OL,2,MWhat is Teletext?                      
+OL,3,P101-About.tti@                        @
+OL,5, In the United Kingdom, Teletext is a   
+OL,6, nostalgic feature that used to be on   
+OL,7, our TVs over a decade ago.             
+OL,9, But internationally, Teletext (in this 
+OL,10, form) is still very much in use!       
+OL,12, Before the digital TV switchover in the
+OL,13, UK (2007-2012), parts of the TV picture
+OL,14, that were hidden off-screen were used  
+OL,15, to transmit digital data in the form of
+OL,16, light and dark dots, which the Teletext
+OL,17, decoder on the TV could read/convert.  
+OL,19, You would sometimes be able to see this
+OL,20, when changing channels / when adjusting
+OL,21, the vertical hold, which brought the   
+OL,22, hidden lines into view (briefly).      
+OL,24,AIndex  BWhat's Nemetext?               
+FL,100,101,0,0,8ff,100

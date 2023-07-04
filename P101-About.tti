@@ -1,0 +1,29 @@
+DE,GameBlast
+DS,inserter
+SP,D:\xampp\htdocs\teletext\nemetext\P101-About.tti
+PN,10101
+SC,0000
+PS,8000
+CT,15,T
+RE,0
+OL,0,        E%%_ Ux]G NemetextU'^\ E%H:%M:%S
+OL,2,MWhat is Nemetext?                      
+OL,3,P101-About.tti@                        @
+OL,5, Nemetext is a Teletext service which   
+OL,6, accompanies Jamie Nemeth's Twitch      
+OL,7, channel/streams.                       
+OL,9, It all began when Jamie stumbled upon  
+OL,10, @ZXGuesser's brilliant online Teletext 
+OL,11, viewer, and that led to a rabbit hole  
+OL,12, of recovered Teletext pages from VHS,  
+OL,13, as well as the discovery of brand-new  
+OL,14, Teletext services (e.g. Teefax and     
+OL,15, NMS Ceefax), created by enthusiasts,   
+OL,16, some of whom had been engineers on the 
+OL,17, original Teletext services in the UK.  
+OL,19, Jamie knew he wasn't the first streamer
+OL,20, to make a new Teletext service, but he 
+OL,21, may be the first one to make a service 
+OL,22, specifically for their Twitch channel! 
+OL,24,AIndex  BWhat's Teletext?               
+FL,100,102,0,0,8ff,100
