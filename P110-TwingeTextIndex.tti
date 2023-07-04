@@ -1,12 +1,8 @@
 DE,TwingeText Index
-DS,inserter
-SP,D:\xampp\htdocs\teletext\nemetext\P110-TwingeTextIndex.tti
-PN,11001
+PN,11000
 SC,0000
 PS,8000
 CT,8,T
-RE,0
-OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
 OL,2,  R             `p|t0                   
 OL,3,  R       ``0p|~}|~5`pp||~}        
 OL,4,  R    p|~4       
@@ -19,9 +15,9 @@ OL,10,  R "o]GTO THE EDINBURGH FRINGER^\
 OL,11,  R   +o?/o//#       
 OL,12,  R     *'!  "o/!+o?o/#           
 OL,13,  R                +'#  "!              
-OL,15,M       11th-13th August 2023           
-OL,18,Jamie will be live atB6amGonB12th August
-OL,19,with a mix of comedy, music, and maybe  
-OL,20,Teletext art?                           
+OL,15, M       11th-13th August 2023          
+OL,18, FRIDAY SCHEDULE....................B111
+OL,19, SATURDAY SCHEDULE..................B???
+OL,20, SUNDAY SCHEDULE....................B???
 OL,22,This year's chosen charity isBSamaritans
 OL,24,AIndex                                  
