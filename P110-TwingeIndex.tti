@@ -1,8 +1,11 @@
 DE,TwingeText Index
+DS,inserter
+SP,D:\xampp\htdocs\teletext\nemetext\P110-TwingeIndex.tti
 PN,11000
 SC,0000
 PS,8000
 CT,8,T
+RE,0
 OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
 OL,2,  R             `p|t0                   
 OL,3,  R       ``0p|~}|~5`pp||~}        
@@ -17,8 +20,10 @@ OL,11,  R   +o?/o//#
 OL,12,  R     *'!  "o/!+o?o/#           
 OL,13,  R                +'#  "!              
 OL,15, M       11th-13th August 2023          
-OL,18, FRIDAY SCHEDULE....................B111
-OL,19, SATURDAY SCHEDULE..................B???
-OL,20, SUNDAY SCHEDULE....................B???
-OL,22,This year's chosen charity isBSamaritans
-OL,24,AIndex                                  
+OL,17,      Raising money forBSamaritans      
+OL,19, FRIDAY SCHEDULE....................B111
+OL,20, SATURDAY SCHEDULE..................B112
+OL,21, SUNDAY SCHEDULE....................B113
+OL,22, Find out more about the event......B114
+OL,24,AAbout   B Friday   C Saturday   FSunday
+FL,114,111,112,113,8ff,8ff

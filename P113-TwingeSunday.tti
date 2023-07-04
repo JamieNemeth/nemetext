@@ -1,15 +1,15 @@
 DE,Twinge Friday Schedule
 DS,inserter
-SP,D:\xampp\htdocs\teletext\nemetext\P111-TwingeFriday.tti
-PN,11101
+SP,D:\xampp\htdocs\teletext\nemetext\P113-TwingeSunday.tti
+PN,11301
 SC,0001
 PS,8000
 CT,15,T
 RE,0
 OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
-OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
-OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
+OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Sunday  
+OL,3,R  ~]W#!j5jj7j7#sjws R^\G  13th   
 OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
 OL,5,R   #+////////////////////'!            
 OL,6,B```````````````````````````````````````
@@ -28,17 +28,17 @@ OL,19,Fan interactive, positive, and possibly
 OL,20,Fweird stream for people to relax and   
 OL,21,Flaugh along with.                      
 OL,23,B``````````````````````````````````` 1/3
-OL,24,AAbout   BTwingedex  C Saturday F Sunday
-FL,114,110,112,113,8ff,8ff
-PN,11102
+OL,24,AAbout   BTwingedex  C Friday  FSaturday
+FL,114,110,111,113,8ff,8ff
+PN,11302
 SC,0002
 PS,8000
 CT,15,T
 RE,0
 OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
-OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
-OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
+OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Sunday  
+OL,3,R  ~]W#!j5jj7j7#sjws R^\G  13th   
 OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
 OL,5,R   #+////////////////////'!            
 OL,6,B```````````````````````````````````````
@@ -56,17 +56,17 @@ OL,19,Fand nerdy conversation.
 OL,20,F                                       
 OL,21,F                                       
 OL,23,B``````````````````````````````````` 2/3
-OL,24,AAbout   BTwingedex  C Saturday F Sunday
-FL,114,110,112,113,8ff,8ff
-PN,11103
+OL,24,AAbout   BTwingedex  C Friday  FSaturday
+FL,114,110,111,113,8ff,8ff
+PN,11303
 SC,0003
 PS,8000
 CT,15,T
 RE,0
 OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
-OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
-OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
+OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Sunday  
+OL,3,R  ~]W#!j5jj7j7#sjws R^\G  13th   
 OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
 OL,5,R   #+////////////////////'!            
 OL,6,B```````````````````````````````````````
@@ -84,5 +84,5 @@ OL,19,Fplays music from video games and sings
 OL,20,Fsongs about silly things.              
 OL,21,F                                       
 OL,23,B``````````````````````````````````` 3/3
-OL,24,AAbout   BTwingedex  C Saturday F Sunday
-FL,114,110,112,113,8ff,8ff
+OL,24,AAbout   BTwingedex  C Friday  FSaturday
+FL,114,110,111,113,8ff,8ff
