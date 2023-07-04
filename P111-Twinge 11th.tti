@@ -1,9 +1,8 @@
-DE,TwingeText Index
+DE,Twinge Friday Schedule
 PN,11001
 SC,0001
 PS,8000
-CT,8,T
-OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+CT,15,T
 OL,1,R     x|tp|||||||||||4`pp|||0           
 OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
 OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
@@ -26,12 +25,11 @@ OL,20,Fweird stream for people to relax and
 OL,21,Flaugh along with.                      
 OL,23,B``````````````````````````````````` 1/3
 OL,24,          BTwingedex  CSaturday  FSunday
-FL,1ff,110,112,113,1ff,1ff
+FL,8ff,110,112,113,8ff,8ff
 PN,11002
 SC,0002
 PS,8000
-CT,8,T
-OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+CT,15,T
 OL,1,R     x|tp|||||||||||4`pp|||0           
 OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
 OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
@@ -53,12 +51,11 @@ OL,20,F
 OL,21,F                                       
 OL,23,B``````````````````````````````````` 2/3
 OL,24,          BTwingedex  CSaturday  FSunday
-FL,1ff,110,112,113,1ff,1ff
+FL,8ff,110,112,113,8ff,8ff
 PN,11003
 SC,0003
 PS,8000
-CT,8,T
-OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+CT,15,T
 OL,1,R     x|tp|||||||||||4`pp|||0           
 OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
 OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
@@ -80,4 +77,4 @@ OL,20,Fsongs about silly things.
 OL,21,F                                       
 OL,23,B``````````````````````````````````` 3/3
 OL,24,          BTwingedex  CSaturday  FSunday
-FL,1ff,110,112,113,1ff,1ff
+FL,8ff,110,112,113,8ff,8ff
