@@ -13,4 +13,4 @@ jobs:
       - name: 🔑 Load Secrets
         run: echo "machine ${{ secrets.FTP_HOSTNAME }} login ${{ secrets.FTP_USERNAME }} password ${{ secrets.FTP_PASSWORD }}" > ~/.netrc
       - name: 📁 Upload Folder
-        run: lftp "mirror --delete-first --no-recursion --parallel=100 -I *.tti -R ./ /nemetext/" ${{ secrets.FTP_HOSTNAME }}
+        run: lftp -e -r "mirror --parallel=100 -I *.tti -R ./ /nemetext/" ${{ secrets.FTP_HOSTNAME }}
