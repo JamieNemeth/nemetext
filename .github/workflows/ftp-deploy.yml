@@ -10,7 +10,5 @@ jobs:
         run: sudo apt install lftp
       - name: 🛠️ Configure LFTP
         run: mkdir ~/.lftp && echo "set ssl:verify-certificate false;" >> ~/.lftp/rc
-      - name: 🔑 Load Secrets
-        run: echo "machine ${{ secrets.FTP_HOSTNAME }} login ${{ secrets.FTP_USERNAME }} password ${{ secrets.FTP_PASSWORD }}" > ~/.netrc
       - name: 📁 Upload Folder
-        run: lftp -e "mirror --parallel=100 -I *.tti -R ./ /nemetext/" ${{ secrets.FTP_HOSTNAME }}
+        run: lftp -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} -e "mirror --parallel=100 -I *.tti -R ./ /nemetext/" ${{ secrets.FTP_HOSTNAME }}
