@@ -1,6 +1,6 @@
 DE,Twinge Friday Schedule
 DS,inserter
-SP,D:\xampp\htdocs\teletext\nemetext\P113-TwingeSunday.tti
+SP,D:\xampp\htdocs\teletext\services\nemetext\P113-TwingeSunday.tti
 PN,11301
 SC,0001
 PS,8000
@@ -13,27 +13,23 @@ OL,3,R  ~]W#!j5jj7j7#sjws R^\G  13th
 OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
 OL,5,R   #+////////////////////'!            
 OL,6,B```````````````````````````````````````
-OL,7,B12pmGPAPAGLITCH                        
-OL,8,FAt PapaGlitch's place every day is a   
-OL,9,FSaturday morning! We watch cartoons, we
-OL,10,Fplay games, we have competitions, we   
-OL,11,Fstay in our pyjamas and eat cereal on  
-OL,12,Fthe sofa, there's a puppet, you're     
-OL,13,Fgoing to love it.                      
-OL,15,B2pmGDEEMOTAN                           
-OL,16,FDeemotan is a streamer from England who
-OL,17,Fusese his dulcet tones and his laid-   
-OL,18,Fback, welcoming personality to create  
-OL,19,Fan interactive, positive, and possibly 
-OL,20,Fweird stream for people to relax and   
-OL,21,Flaugh along with.                      
-OL,23,B``````````````````````````````````` 1/3
+OL,7,B12am-4amGTOILETDUCKQUACK               
+OL,9,FToiletDuckQuack is a Twitch variety    
+OL,10,Fstreamer from Sydney Australia with by 
+OL,11,Fher own admission "sub par" gaming     
+OL,12,Fskills. She's loud, exuberant, friendly
+OL,13,Fand fun. She enjoys long walks on the  
+OL,14,Fbeach, dogs, stickers, showing the kids
+OL,15,F"how it's done" on Splatoon 3 &        
+OL,16,Fpracticing the lost art of playing any 
+OL,17,Fplatformer without dying immediately.  
+OL,23,B``````````````````````````````````` 1/9
 OL,24,AAbout   BTwingedex  C Friday  FSaturday
 FL,114,110,111,113,8ff,8ff
 PN,11302
 SC,0002
 PS,8000
-CT,15,T
+CT,8,T
 RE,0
 OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
@@ -42,26 +38,25 @@ OL,3,R  ~]W#!j5jj7j7#sjws R^\G  13th
 OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
 OL,5,R   #+////////////////////'!            
 OL,6,B```````````````````````````````````````
-OL,7,B4pmGCACTUSKNAX                         
-OL,8,FThe Twitch King Of Wales welcomes thee.
-OL,9,FCome join the Pack! Twitch Affiliate.  
-OL,10,FEntertainer. Host. Sometimes drunk.    
-OL,11,FCrap impressionist. Apparently "better 
-OL,12,Fthan Netflix".                         
-OL,15,B6pmGIMAGINARYHOLLY                     
-OL,16,FHolly is a super dorky voice actor who 
-OL,17,Floves to play games and drink lots of  
-OL,18,Ftea! Expect daft fun, 80s/90s nostalgia
-OL,19,Fand nerdy conversation.                
-OL,20,F                                       
-OL,21,F                                       
-OL,23,B``````````````````````````````````` 2/3
+OL,7,B4am-8amGMOSTLYWOLF                     
+OL,9,FMostlyWolf is an Australian            
+OL,10,F"functional" alcoholic variety streamer
+OL,11,Fthat has a perfectly normal and healthy
+OL,12,Fobsession with sci fi, comic books,    
+OL,13,Ffantasy and pop culture.               
+OL,14,F                                       
+OL,15,FIf you like obscure retro games from 25
+OL,16,Fyears ago no one remembers, lengthy    
+OL,17,Fimpromptu just chatting segments and   
+OL,18,Fgeneral good times, MostlyWolf may just
+OL,19,Fbe the happy go lucky lunatic for you! 
+OL,23,B``````````````````````````````````` 2/9
 OL,24,AAbout   BTwingedex  C Friday  FSaturday
 FL,114,110,111,113,8ff,8ff
 PN,11303
 SC,0003
 PS,8000
-CT,15,T
+CT,8,T
 RE,0
 OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
@@ -70,19 +65,176 @@ OL,3,R  ~]W#!j5jj7j7#sjws R^\G  13th
 OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
 OL,5,R   #+////////////////////'!            
 OL,6,B```````````````````````````````````````
-OL,7,B8pmGANGELINTERCEPTOR                   
-OL,8,FAngel is a stand up comedian-turned    
-OL,9,Fstreamer. She used to attempt a bunch  
-OL,10,Fof speedruns, but that doesn't happen  
-OL,11,Fso much now - chat won't let her. It is
-OL,12,Ftheir stream. Expect awful video games,
-OL,13,Fpassable songs, terrible art, quizzes, 
-OL,14,Fand Angel losing all hope.             
-OL,17,B10pmGWINDY`HARPER                      
-OL,18,FWindy is a professional harpist who    
-OL,19,Fplays music from video games and sings 
-OL,20,Fsongs about silly things.              
-OL,21,F                                       
-OL,23,B``````````````````````````````````` 3/3
+OL,7,B8am-10amGUKANDYGAMER                   
+OL,9,FUkAndyGamer (sometimes known as Uk Andy
+OL,10,FDrinker) a variety streamer, lots of   
+OL,11,Fretro games TV and silliness. Hosts The
+OL,12,FBreakfast Club, a childrens morning TV 
+OL,13,Fthemed stream though may not be        
+OL,14,Fentirely suitable for those younger in 
+OL,15,Fyears. Health and wellbeing, physical  
+OL,16,Fand mental, are a passion and I stream 
+OL,17,Fabout both and I am never on screen    
+OL,18,Fwithout my dogs Micah and Phoebe.      
+OL,23,B``````````````````````````````````` 3/9
+OL,24,AAbout   BTwingedex  C Friday  FSaturday
+FL,114,110,111,113,8ff,8ff
+PN,11304
+SC,0004
+PS,8000
+CT,8,T
+RE,0
+OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,1,R     x|tp|||||||||||4`pp|||0           
+OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Sunday  
+OL,3,R  ~]W#!j5jj7j7#sjws R^\G  13th   
+OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
+OL,5,R   #+////////////////////'!            
+OL,6,B```````````````````````````````````````
+OL,7,B10am-12pmGSTO`HELIT                    
+OL,9,FJoin Sto for cosy Sunday mornings      
+OL,10,Ffeaturing strategy games and live      
+OL,11,Fcooking. You'll find a sweet, welcoming
+OL,12,Fand cheeky community who love          
+OL,13,Fknowledge, history and culture (as well
+OL,14,Fas trolling. So much trolling.)        
+OL,15,F                                       
+OL,16,F                                       
+OL,17,F                                       
+OL,23,B``````````````````````````````````` 4/9
+OL,24,AAbout   BTwingedex  C Friday  FSaturday
+FL,114,110,111,113,8ff,8ff
+PN,11305
+SC,0005
+PS,8000
+CT,8,T
+RE,0
+OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,1,R     x|tp|||||||||||4`pp|||0           
+OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Sunday  
+OL,3,R  ~]W#!j5jj7j7#sjws R^\G  13th   
+OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
+OL,5,R   #+////////////////////'!            
+OL,6,B```````````````````````````````````````
+OL,7,B12pm-2pmGDEEMOTAN                      
+OL,9,FDeemotan is a streamer from England who
+OL,10,Fuses his dulcet tones and his laid-    
+OL,11,Fback, welcoming personality to create  
+OL,12,Fan interactive, positive, and possibly 
+OL,13,Fweird stream for people to relax and   
+OL,14,Flaugh along with. He loves building    
+OL,15,Fthings in management games, Minecraft, 
+OL,16,Fand designing D&D Maps for chat to play
+OL,17,Falong with.                            
+OL,23,B``````````````````````````````````` 5/9
+OL,24,AAbout   BTwingedex  C Friday  FSaturday
+FL,114,110,111,113,8ff,8ff
+PN,11306
+SC,0006
+PS,8000
+CT,8,T
+RE,0
+OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,1,R     x|tp|||||||||||4`pp|||0           
+OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Sunday  
+OL,3,R  ~]W#!j5jj7j7#sjws R^\G  13th   
+OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
+OL,5,R   #+////////////////////'!            
+OL,6,B```````````````````````````````````````
+OL,7,B2pm-4pmGFIEARYSQUIRREL                 
+OL,8,FFiearySquirrel (they/them) hails from a
+OL,9,Fplace where Happy Mondays, Joy         
+OL,10,FDivision, Oasis and The Stone Roses are
+OL,11,Fcelebrated. They have a passion for    
+OL,12,Fmakeup artistry, reading, music and    
+OL,13,Fplaying a variety of games on Twitch.  
+OL,14,FStarting out on PS4 and with makeup    
+OL,15,Fstreams on phonecam they have delved   
+OL,16,Finto the realm of OBS two years ago    
+OL,17,Fafter acquiring a PC. The rest would be
+OL,18,Fhistory, but they have no clue what    
+OL,19,Fthey are doing still. However they are 
+OL,20,Fhaving fun doing it, and you can catch 
+OL,21,Fthem on a very special makeup stream   
+OL,22,Fhere for Twinge.                       
+OL,23,B``````````````````````````````````` 6/9
+OL,24,AAbout   BTwingedex  C Friday  FSaturday
+FL,114,110,111,113,8ff,8ff
+PN,11307
+SC,0007
+PS,8000
+CT,8,T
+RE,0
+OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,1,R     x|tp|||||||||||4`pp|||0           
+OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Sunday  
+OL,3,R  ~]W#!j5jj7j7#sjws R^\G  13th   
+OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
+OL,5,R   #+////////////////////'!            
+OL,6,B```````````````````````````````````````
+OL,7,B4pm-6pmGSHYTEHAWK                      
+OL,9,FShytehawk is a true variety streamer   
+OL,10,Fand by that I mean he is too tired to  
+OL,11,Fplan his streams. He could be playing  
+OL,12,Fdaft games, doing D&D with his daft    
+OL,13,Fmates, doing daft tournaments for      
+OL,14,Fcharity but what he can offer is a     
+OL,15,Fwholesome inclusive little corner of   
+OL,16,FTwitch with no wrong'uns for everyone  
+OL,17,Fto be daft together. For Twinge he is  
+OL,18,Ftaking the night off and letting his   
+OL,19,Fpal Gary Zilla take over the channel so
+OL,20,Fexpect a bitter actor who played       
+OL,21,FGodzilla in the 90s.                   
+OL,23,B``````````````````````````````````` 7/9
+OL,24,AAbout   BTwingedex  C Friday  FSaturday
+FL,114,110,111,113,8ff,8ff
+PN,11308
+SC,0008
+PS,8000
+CT,8,T
+RE,0
+OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,1,R     x|tp|||||||||||4`pp|||0           
+OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Sunday  
+OL,3,R  ~]W#!j5jj7j7#sjws R^\G  13th   
+OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
+OL,5,R   #+////////////////////'!            
+OL,6,B```````````````````````````````````````
+OL,7,B6pm-8pmGTHATWELSHKAREN                 
+OL,9,FHi, I'm Karen (Yeah, I've heard all the
+OL,10,FKaren jokes before, try to make them   
+OL,11,Fand I'll call the manager!) I'm a      
+OL,12,Fvariety streamer who loves Nintendo so 
+OL,13,Ffor this year's fest I'll be doing a   
+OL,14,FMario Kart Mayhem stream! Come join the
+OL,15,Ffun and see how you do! For every      
+OL,16,Fperson who beats me I'll donate 50p    
+OL,17,Ftowards this year's charity.           
+OL,23,B``````````````````````````````````` 8/9
+OL,24,AAbout   BTwingedex  C Friday  FSaturday
+FL,114,110,111,113,8ff,8ff
+PN,11309
+SC,0009
+PS,8000
+CT,8,T
+RE,0
+OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,1,R     x|tp|||||||||||4`pp|||0           
+OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Sunday  
+OL,3,R  ~]W#!j5jj7j7#sjws R^\G  13th   
+OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
+OL,5,R   #+////////////////////'!            
+OL,6,B```````````````````````````````````````
+OL,7,B8pm-10pmGMATTHOSSCOMEDY                
+OL,9,FThe creator of Twinge Festival and the 
+OL,10,Fgreatest guitarenspiel player on       
+OL,11,FTwitch. If you love anarchic comedy,   
+OL,12,Fwholesome fun and pure carnage all     
+OL,13,Fwithin two hours, come and see the     
+OL,14,Flegendary Matt Hoss for laughs, smiles 
+OL,15,Fand sweetness. Expect weird, wonderful 
+OL,16,Fand many things going wrong.           
+OL,23,B``````````````````````````````````` 9/9
 OL,24,AAbout   BTwingedex  C Friday  FSaturday
 FL,114,110,111,113,8ff,8ff

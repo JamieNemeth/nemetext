@@ -1,6 +1,6 @@
 DE,Twinge Friday Schedule
 DS,inserter
-SP,D:\xampp\htdocs\teletext\nemetext\P111-TwingeFriday.tti
+SP,D:\xampp\htdocs\teletext\services\nemetext\P111-TwingeFriday.tti
 PN,11101
 SC,0001
 PS,8000
@@ -13,27 +13,22 @@ OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th
 OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
 OL,5,R   #+////////////////////'!            
 OL,6,B```````````````````````````````````````
-OL,7,B12pmGPAPAGLITCH                        
-OL,8,FAt PapaGlitch's place every day is a   
-OL,9,FSaturday morning! We watch cartoons, we
-OL,10,Fplay games, we have competitions, we   
-OL,11,Fstay in our pyjamas and eat cereal on  
-OL,12,Fthe sofa, there's a puppet, you're     
-OL,13,Fgoing to love it.                      
-OL,15,B2pmGDEEMOTAN                           
-OL,16,FDeemotan is a streamer from England who
-OL,17,Fusese his dulcet tones and his laid-   
-OL,18,Fback, welcoming personality to create  
-OL,19,Fan interactive, positive, and possibly 
-OL,20,Fweird stream for people to relax and   
-OL,21,Flaugh along with.                      
-OL,23,B``````````````````````````````````` 1/3
+OL,7,B10am-12pmGMATTHOSSCOMEDY               
+OL,9,FThe creator of Twinge Festival and the 
+OL,10,Fgreatest guitarenspiel player on       
+OL,11,FTwitch. If you love anarchic comedy,   
+OL,12,Fwholesome fun and pure carnage all     
+OL,13,Fwithin two hours, come and see the     
+OL,14,Flegendary Matt Hoss for laughs, smiles 
+OL,15,Fand sweetness. Expect weird, wonderful 
+OL,16,Fand many things going wrong.           
+OL,23,B``````````````````````````````````` 1/7
 OL,24,AAbout   BTwingedex  C Saturday F Sunday
 FL,114,110,112,113,8ff,8ff
 PN,11102
 SC,0002
 PS,8000
-CT,15,T
+CT,8,T
 RE,0
 OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
@@ -42,26 +37,22 @@ OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th
 OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
 OL,5,R   #+////////////////////'!            
 OL,6,B```````````````````````````````````````
-OL,7,B4pmGCACTUSKNAX                         
-OL,8,FThe Twitch King Of Wales welcomes thee.
-OL,9,FCome join the Pack! Twitch Affiliate.  
-OL,10,FEntertainer. Host. Sometimes drunk.    
-OL,11,FCrap impressionist. Apparently "better 
-OL,12,Fthan Netflix".                         
-OL,15,B6pmGIMAGINARYHOLLY                     
-OL,16,FHolly is a super dorky voice actor who 
-OL,17,Floves to play games and drink lots of  
-OL,18,Ftea! Expect daft fun, 80s/90s nostalgia
-OL,19,Fand nerdy conversation.                
-OL,20,F                                       
-OL,21,F                                       
-OL,23,B``````````````````````````````````` 2/3
+OL,7,B12pm-2pmGPANDAGRENADE87                
+OL,9,FI'm an autistic variety streamer. For  
+OL,10,Fmy Twinge stream I will be hosting a   
+OL,11,Fretro game show board game with special
+OL,12,Fguests. Board game will be one of these
+OL,13,F(Blockbusters, Play Your Cards Right,  
+OL,14,FConcentration, Catchphrase or Million  
+OL,15,FPound Drop). It's organised chaos and  
+OL,16,Falways a highlight to my streams.      
+OL,23,B``````````````````````````````````` 2/7
 OL,24,AAbout   BTwingedex  C Saturday F Sunday
 FL,114,110,112,113,8ff,8ff
 PN,11103
 SC,0003
 PS,8000
-CT,15,T
+CT,8,T
 RE,0
 OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
@@ -70,19 +61,134 @@ OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th
 OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
 OL,5,R   #+////////////////////'!            
 OL,6,B```````````````````````````````````````
-OL,7,B8pmGANGELINTERCEPTOR                   
-OL,8,FAngel is a stand up comedian-turned    
-OL,9,Fstreamer. She used to attempt a bunch  
-OL,10,Fof speedruns, but that doesn't happen  
-OL,11,Fso much now - chat won't let her. It is
-OL,12,Ftheir stream. Expect awful video games,
-OL,13,Fpassable songs, terrible art, quizzes, 
-OL,14,Fand Angel losing all hope.             
-OL,17,B10pmGWINDY`HARPER                      
-OL,18,FWindy is a professional harpist who    
-OL,19,Fplays music from video games and sings 
-OL,20,Fsongs about silly things.              
+OL,7,B2pm-4pmGWAYWARDPYTHON                  
+OL,9,FWayward is an ageing streamer who      
+OL,10,Freally has no business playing games in
+OL,11,Fhis fifties. A Welshman blessed with   
+OL,12,Fthe dulcet tones of an English vicar,  
+OL,13,Fhe is generally wholesome & the owner  
+OL,14,Fof the finest wit known to             
+OL,15,Fconnoisseurs. Also his chat enjoys     
+OL,16,Fmaking him say rude words. He will be  
+OL,17,Fplaying Hollow Knight for the first    
+OL,18,Ftime ever, a game sure to push his     
+OL,19,Fblood pressure up to eleven.           
+OL,23,B``````````````````````````````````` 3/7
+OL,24,AAbout   BTwingedex  C Saturday F Sunday
+FL,114,110,112,113,8ff,8ff
+PN,11104
+SC,0004
+PS,8000
+CT,8,T
+RE,0
+OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,1,R     x|tp|||||||||||4`pp|||0           
+OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
+OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
+OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
+OL,5,R   #+////////////////////'!            
+OL,6,B```````````````````````````````````````
+OL,7,B4pm-6pmGCACTUSKNAX                     
+OL,9,FCactus is a streamer, voiceover artist 
+OL,10,F& internet vagabond. He strums a guitar
+OL,11,Fof fine metal stylings as well as he   
+OL,12,Fcan eat a packet of BBQ Hula Hoops.    
+OL,13,FLet the people tell you. He does it    
+OL,14,Fwell. One of the many fine things Wales
+OL,15,Fhas to offer, this bearded marvel      
+OL,16,Fpromises once again, for the           
+OL,17,Fprestigious 3rd year in a row, two     
+OL,18,Fhours of planned content descending    
+OL,19,Finto chaos with a feeling when you     
+OL,20,Fleave, you will have many questions.   
+OL,21,FWith a loved/unloved one, join in a    
+OL,22,Fsmall ride for a good cause!           
+OL,23,B``````````````````````````````````` 4/7
+OL,24,AAbout   BTwingedex  C Saturday F Sunday
+FL,114,110,112,113,8ff,8ff
+PN,11105
+SC,0005
+PS,8000
+CT,8,T
+RE,0
+OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,1,R     x|tp|||||||||||4`pp|||0           
+OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
+OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
+OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
+OL,5,R   #+////////////////////'!            
+OL,6,B```````````````````````````````````````
+OL,7,B6pm-8pmGCOLDNIGHTCHAOS                 
+OL,9,FColdnightChaos is a variety game       
+OL,10,Fstreamer whose choice of games ranges  
+OL,11,Ffrom the weird to the wonderful. She is
+OL,12,Foften seen getting frustrated at       
+OL,13,Fplatformers, laughing at horror games, 
+OL,14,For getting confused by puzzles. If you 
+OL,15,Fwant a friendly place to hang out and  
+OL,16,Fhave a laugh (usually at Cold's        
+OL,17,Fexpense) then come on by this Twinge   
+OL,18,FFest!                                  
+OL,19,F                                       
+OL,20,F                                       
+OL,23,B``````````````````````````````````` 5/7
+OL,24,AAbout   BTwingedex  C Saturday F Sunday
+FL,114,110,112,113,8ff,8ff
+PN,11106
+SC,0006
+PS,8000
+CT,8,T
+RE,0
+OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,1,R     x|tp|||||||||||4`pp|||0           
+OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
+OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
+OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
+OL,5,R   #+////////////////////'!            
+OL,6,B```````````````````````````````````````
+OL,7,B8pm-10pmGBROTHERS`KAMARA               
+OL,9,FWe are Tom and Ben, just 2 brothers who
+OL,10,Fhave been gaming together our whole    
+OL,11,Flives. We love to keep things varied   
+OL,12,Fbringing as much fun and chaos as      
+OL,13,Fpossible. This year we will be playing 
+OL,14,FFall Guys with viewers! Ben is the true
+OL,15,Fmaster of winning crowns while Tom is  
+OL,16,Fnotoriously bad and defaults to a      
+OL,17,Fcommentator role after being           
+OL,18,Feliminated. Squad games and multiplayer
+OL,19,Fgames with viewers always leads to some
+OL,20,Fexciting times. So load up Fall Guys   
+OL,21,Fand prepare to... beat us!             
+OL,23,B``````````````````````````````````` 6/7
+OL,24,AAbout   BTwingedex  C Saturday F Sunday
+FL,114,110,112,113,8ff,8ff
+PN,11107
+SC,0007
+PS,8000
+CT,8,T
+RE,0
+OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,1,R     x|tp|||||||||||4`pp|||0           
+OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
+OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
+OL,4,R "{]Wo5?jj5j}|*}| ^^\G August  
+OL,5,R   #+////////////////////'!            
+OL,6,B```````````````````````````````````````
+OL,7,B10pm-12amGTHE`LAST`DJ                  
+OL,9,FMy name is Kris! By day I work in      
+OL,10,Ftechnology and by night I spin virtual 
+OL,11,Fdecks, be a PlayStation Expert and     
+OL,12,Fstream. I play a variety of games but  
+OL,13,Fbeing a trophy hunter, I try to        
+OL,14,Fcomplete more than I start. I will be  
+OL,15,Fdoing my Fall Guys but with a twist.   
+OL,16,FEvery time I get eliminated, I will do 
+OL,17,Fa beanboozle. I could be lucky and have
+OL,18,Fall the nice ones but I have a feeling 
+OL,19,Fthat's not going to happen.            
+OL,20,F                                       
 OL,21,F                                       
-OL,23,B``````````````````````````````````` 3/3
+OL,23,B``````````````````````````````````` 7/7
 OL,24,AAbout   BTwingedex  C Saturday F Sunday
 FL,114,110,112,113,8ff,8ff
