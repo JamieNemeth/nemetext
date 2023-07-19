@@ -1,6 +1,6 @@
 DE,Credits
 DS,inserter
-SP,D:\xampp\htdocs\teletext\nemetext\P616-Gigs.tti
+SP,D:\xampp\htdocs\teletext\services\nemetext\P616-Gigs.tti
 PN,61600
 SC,0000
 PS,8000
@@ -9,9 +9,13 @@ RE,0
 OL,0,        E%%_ Ux]G NemetextU'^\ E%H:%M:%S
 OL,2,EMUpcoming Gigs                         
 OL,3, - Tech & Software Ltd.                 
-OL,5, CSaturday 7th October 2023             
-OL,6, F "Long Run The Fox" Album Launch      
-OL,7,   with Isembard's Wheel                
-OL,8,   The Gate, Cardiff                    
+OL,5, CSaturday 30th September 2023          
+OL,6, F Oktoberfest                          
+OL,7,   with Moongazer                       
+OL,8,   Neath Rugby Clubhouse                
+OL,10, CSaturday 7th October 2023             
+OL,11, F "Long Run The Fox" Album Launch      
+OL,12,   with Isembard's Wheel                
+OL,13,   The Gate, Cardiff                    
 OL,24,AIndex                                  
 FL,100,8ff,8ff,8ff,8ff,100
