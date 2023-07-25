@@ -6,7 +6,7 @@ SC,0001
 PS,8000
 CT,15,T
 RE,0
-OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,0,        B%%# R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
 OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
 OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
@@ -30,7 +30,7 @@ SC,0002
 PS,8000
 CT,8,T
 RE,0
-OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,0,        B%%# R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
 OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
 OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
@@ -54,7 +54,7 @@ SC,0003
 PS,8000
 CT,8,T
 RE,0
-OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,0,        B%%# R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
 OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
 OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
@@ -81,7 +81,7 @@ SC,0004
 PS,8000
 CT,8,T
 RE,0
-OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,0,        B%%# R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
 OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
 OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
@@ -111,7 +111,7 @@ SC,0005
 PS,8000
 CT,8,T
 RE,0
-OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,0,        B%%# R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
 OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
 OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
@@ -139,7 +139,7 @@ SC,0006
 PS,8000
 CT,8,T
 RE,0
-OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,0,        B%%# R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
 OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
 OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   
@@ -168,7 +168,7 @@ SC,0007
 PS,8000
 CT,8,T
 RE,0
-OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,0,        B%%# R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
 OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G Friday  
 OL,3,R  ~]W#!j5jj7j7#sjws R^\G  11th   

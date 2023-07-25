@@ -6,7 +6,7 @@ SC,0000
 PS,8000
 CT,8,T
 RE,0
-OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,0,        B%%# R ]GTwingeText  \ B%H:%M:%S
 OL,2,  R             `p|t0                   
 OL,3,  R       ``0p|~}|~5`pp||~}        
 OL,4,  R    p|~4       

@@ -6,7 +6,7 @@ SC,0000
 PS,8000
 CT,15,T
 RE,0
-OL,0,        B%%_ R ]GTwingeText  \ B%H:%M:%S
+OL,0,        B%%# R ]GTwingeText  \ B%H:%M:%S
 OL,1,R     x|tp|||||||||||4`pp|||0           
 OL,2,R  `x]Wp0p`0pbs`p0 ppp`pp RT\G 11-13   
 OL,3,R  ~]W#!j5jj7j7#sjws R^\G August  

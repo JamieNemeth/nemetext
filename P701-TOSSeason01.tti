@@ -6,7 +6,7 @@ SC,0001
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C12 Jul 1969               DTOS: S01 E03
 OL,3,C17:15GStar Trek: Where No Man Has Gone 
@@ -37,7 +37,7 @@ SC,0002
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C19 Jul 1969               DTOS: S01 E04
 OL,3,C17:15GStar Trek: The Naked Time        
@@ -67,7 +67,7 @@ SC,0003
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C26 Jul 1969               DTOS: S01 E28
 OL,3,C17:15GStar Trek: The City on the Edge  
@@ -98,7 +98,7 @@ SC,0004
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C02 Aug 1969               DTOS: S01 E23
 OL,3,C17:15GStar Trek: A Taste of Armageddon 
@@ -128,7 +128,7 @@ SC,0005
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C09 Aug 1969               DTOS: S01 E06
 OL,3,C17:15GStar Trek: Mudd's Women          
@@ -158,7 +158,7 @@ SC,0006
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C16 Aug 1969               DTOS: S01 E19
 OL,3,C17:15GStar Trek: Tomorrow is Yesterday 
@@ -188,7 +188,7 @@ SC,0007
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C23 Aug 1969               DTOS: S01 E11
 OL,3,C17:15GStar Trek: Menagerie: Part 1     
@@ -218,7 +218,7 @@ SC,0008
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C30 Aug 1969               DTOS: S01 E12
 OL,3,C17:15GStar Trek: Menagerie: Part 2     
@@ -248,7 +248,7 @@ SC,0009
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C06 Sep 1969               DTOS: S01 E25
 OL,3,C17:15GStar Trek: The Devil in the Dark 
@@ -278,7 +278,7 @@ SC,0010
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C13 Sep 1969               DTOS: S01 E02
 OL,3,C17:15GStar Trek: Charlie X             
@@ -308,7 +308,7 @@ SC,0011
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C20 Sep 1969               DTOS: S01 E15
 OL,3,C17:15GStar Trek: Shore Leave           
@@ -338,7 +338,7 @@ SC,0012
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C27 Sep 1969               DTOS: S01 E22
 OL,3,C17:15GStar Trek: Space Seed            
@@ -368,7 +368,7 @@ SC,0013
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C04 Oct 1969               DTOS: S01 E01
 OL,3,C17:15GStar Trek: The Man Trap          
@@ -398,7 +398,7 @@ SC,0014
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C11 Oct 1969               DTOS: S01 E09
 OL,3,C17:15GStar Trek: Dagger of the Mind    
@@ -428,7 +428,7 @@ SC,0015
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C18 Oct 1969               DTOS: S01 E10
 OL,3,C17:15GStar Trek: The Corbomite         
@@ -459,7 +459,7 @@ SC,0016
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C25 Oct 1969               DTOS: S01 E14
 OL,3,C17:15GStar Trek: Balance of Terror     
@@ -489,7 +489,7 @@ SC,0017
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C01 Nov 1969               DTOS: S01 E17
 OL,3,C17:15GStar Trek: The Squire of Gothos  
@@ -519,7 +519,7 @@ SC,0018
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C08 Nov 1969               DTOS: S01 E07
 OL,3,C17:15GStar Trek: What Are Little Girls 
@@ -550,7 +550,7 @@ SC,0019
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C15 Nov 1969               DTOS: S01 E18
 OL,3,C17:15GStar Trek: Arena                 
@@ -580,7 +580,7 @@ SC,0020
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C22 Nov 1969               DTOS: S01 E21
 OL,3,C17:15GStar Trek: Return of the Archons 
@@ -610,7 +610,7 @@ SC,0021
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C29 Nov 1969               DTOS: S01 E24
 OL,3,C17:15GStar Trek: This Side of Paradise 
@@ -640,7 +640,7 @@ SC,0022
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C06 Dec 1969               DTOS: S01 E20
 OL,3,C17:15GStar Trek: Court Martial         
@@ -670,7 +670,7 @@ SC,0023
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C13 Dec 1969               DTOS: S01 E26
 OL,3,C17:15GStar Trek: Errand of Mercy       
@@ -700,7 +700,7 @@ SC,0024
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C20 Dec 1969               DTOS: S01 E13
 OL,3,C17:15GStar Trek: The Conscience of the 
@@ -731,7 +731,7 @@ SC,0025
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C27 Dec 1969               DTOS: S01 E16
 OL,3,C17:15GStar Trek: The Galileo Seven     
@@ -761,7 +761,7 @@ SC,0026
 PS,8000
 CT,20,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C13 Apr 1970               DTOS: S01 E05
 OL,3,C17:15GStar Trek: The Enemy Within      
@@ -791,7 +791,7 @@ SC,0027
 PS,8000
 CT,8,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C02 Dec 1970               DTOS: S01 E08
 OL,3,C19:20GStar Trek: Miri                  
@@ -821,7 +821,7 @@ SC,0029
 PS,8000
 CT,8,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C09 Dec 1970               DTOS: S01 E29
 OL,3,C19:20GStar Trek: Operation Annihilate  
@@ -851,7 +851,7 @@ SC,0028
 PS,8000
 CT,8,T
 RE,0
-OL,0,        C%%_Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,C```````````````````````````````````````
 OL,2,C08 Dec 1971               DTOS: S01 E27
 OL,3,C19:25GStar Trek: The Alternative Factor
