@@ -1,8 +1,11 @@
 DE,Twitch
+DS,inserter
+SP,D:\xampp\htdocs\teletext\services\nemetext\P200-Twitch.tti
 PN,20000
 SC,0000
 PS,8000
 CT,8,T
+RE,0
 OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
 OL,2,U5                          
 OL,3,U'`pppppp0j5 /      #h4             
@@ -22,6 +25,6 @@ OL,17,               UjE204GRecent Followers
 OL,18,    Impromptu  UjE205GRecent Subscribers
 OL,19,  streams untilUjG                      
 OL,20,    29th July  UjG                      
-OL,22,D]GM   CHUNKY FRINGE & TWINGE: p120     
+OL,22,D]GM       CHUNKY FRINGE p120           
 OL,24,AIndex  BCategories  CFollowers   FSubs 
 FL,100,201,204,205,8ff,100
