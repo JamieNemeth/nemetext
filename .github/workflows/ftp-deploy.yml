@@ -9,7 +9,7 @@ jobs:
       - name: 📦 Get LFTP
         run: sudo apt install lftp
       - name: 🛠️ Configure LFTP
-        run: mkdir ~/.lftp && echo "set ssl:verify-certificate no; set sftp:auto-confirm yes;" >> ~/.lftp/rc
+        run: mkdir ~/.lftp && echo "set ssl:verify-certificate no;" >> ~/.lftp/rc
       - name: 🔑 Load Secrets
         run: echo "machine sftp://${{ secrets.SFTP_HOSTNAME }}:${{ secrets.SFTP_PORT }} login ${{ secrets.SFTP_USERNAME }} password ${{ secrets.SFTP_PASSWORD }}" > ~/.netrc
       - name: 📁 Upload Folder
