@@ -11,6 +11,6 @@ jobs:
       - name: 🛠️ Configure LFTP
         run: mkdir ~/.lftp && echo "set ssl:verify-certificate no; set sftp:auto-confirm yes;" >> ~/.lftp/rc
       - name: 🔑 Load Secrets
-        run: echo "machine ${{ secrets.SFTP_HOSTNAME }} login ${{ secrets.SFTP_USERNAME }} password ${{ secrets.SFTP_PASSWORD }}" > ~/.netrc
+        run: echo "machine sftp://${{ secrets.SFTP_HOSTNAME }}:${{ secrets.SFTP_PORT }} login ${{ secrets.SFTP_USERNAME }} password ${{ secrets.SFTP_PASSWORD }}" > ~/.netrc
       - name: 📁 Upload Folder
         run: lftp -e "mirror --delete-first --no-recursion --parallel=100 -I *.tti -R ./ /" sftp://${{ secrets.SFTP_HOSTNAME }}:${{ secrets.SFTP_PORT }}
