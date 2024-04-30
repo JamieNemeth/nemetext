@@ -12,12 +12,13 @@ jobs:
         
       - name: 🛠️ Configure Git-FTP
         run: |
-          git config git-ftp.url "sftp://${{ secrets.SFTP_HOSTNAME }}:${{ secrets.SFTP_PORT }}"
-          git config git-ftp.user "${{ secrets.SFTP_USERNAME }}"
-          git config git-ftp.password "${{ secrets.SFTP_PASSWORD }}"
+          git config git-ftp.url sftp://${{ secrets.SFTP_HOSTNAME }}:${{ secrets.SFTP_PORT }}
+          git config git-ftp.user ${{ secrets.SFTP_USERNAME }}
+          git config git-ftp.password ${{ secrets.SFTP_PASSWORD }}
+          git config git-ftp.insecure 1
       
       - name: ⬆️ Push
-        run: git ftp push --auto-init --insecure
+        run: git ftp push --auto-init
           
       #- name: 🛒 Checkout
       #  uses: actions/checkout@v2
