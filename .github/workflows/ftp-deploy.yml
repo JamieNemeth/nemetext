@@ -6,13 +6,20 @@ jobs:
     steps:
       - name: 💿 Install Git-FTP
         run: sudo apt-get install git-ftp
-      - name: 🛠️ Configure Git-FTP
-        run: |
-          git config git-ftp.url "sftp://${{ secrets.SFTP_HOSTNAME }}:${{ secrets.SFTP_PORT }}"
-          git config git-ftp.user "${{ secrets.SFTP_USERNAME }}"
-          git config git-ftp.password "${{ secrets.SFTP_PASSWORD }}"
+        
+      #- name: 🛠️ Configure Git-FTP
+      #  run: |
+      #    git config git-ftp.url "sftp://${{ secrets.SFTP_HOSTNAME }}:${{ secrets.SFTP_PORT }}"
+      #    git config git-ftp.user "${{ secrets.SFTP_USERNAME }}"
+      #    git config git-ftp.password "${{ secrets.SFTP_PASSWORD }}"
+      
       - name: ⬆️ Push
-        run: git ftp push --auto-init
+        run: >
+          git ftp push
+          --auto-init
+          --user ${{ secrets.SFTP_USERNAME }}
+          --passwd ${{ secrets.SFTP_PASSWORD }}
+          sftp://${{ secrets.SFTP_HOSTNAME }}:${{ secrets.SFTP_PORT }}
           
       #- name: 🛒 Checkout
       #  uses: actions/checkout@v2
