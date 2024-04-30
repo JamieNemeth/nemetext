@@ -17,7 +17,7 @@ jobs:
           git config git-ftp.insecure 1
       
       - name: ⬆️ Push
-        run: git ftp push --passwd "${{ secrets.SFTP_PASSWORD }}" --auto-init
+        run: git ftp push --passwd '${{ secrets.SFTP_PASSWORD }}' --auto-init
           
       #- name: 🛒 Checkout
       #  uses: actions/checkout@v2
