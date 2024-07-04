@@ -2,7 +2,7 @@ DE,Credits
 DS,inserter
 SP,D:\xampp\htdocs\teletext\services\nemetext\P616-Gigs.tti
 PN,61601
-SC,0001
+SC,0000
 PS,8000
 CT,8,T
 RE,0
@@ -14,36 +14,12 @@ OL,4,Ujj555  j5~jW uS2/m
 OL,5,Uo~j55  h|~5||jW "//  S)
 OL,6,U       ||5                   W        
 OL,8,MEJamie's upcoming gigs                 
-OL,11, CSaturday 18th May 2024                
-OL,12, FGower Cider Festival                  
-OL,13,   with The Occasional Domestics        
-OL,14,   Gower Heritage Centre, Parkmill      
-OL,23,E``````````````````````````````````` 1/2
-OL,24,AIndex                                  
-FL,100,8ff,8ff,8ff,8ff,100
-PN,61602
-SC,0002
-PS,8000
-CT,8,T
-RE,0
-OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
-OL,1,U                               W `|t   
-OL,2,U~//*/%    //  //            W *?SH`
-OL,3,U  j55*%j?/%oj%Wx|S~}8!
-OL,4,Ujj555  j5~jW uS2/m 
-OL,5,Uo~j55  h|~5||jW "//  S)
-OL,6,U       ||5                   W        
-OL,8,MEJamie's upcoming gigs                 
-OL,11, CSaturday 15th June 2024               
-OL,12, FBeardy Folk Festival                  
-OL,13,   with Isembard's Wheel                
-OL,14,   Hopton Court, near Cleobury Mortimer 
-OL,16, CSaturday 13th July 2024               
-OL,17,   with Moongazer                       
-OL,18,   The Greyhound, Neath                 
-OL,20, CSaturday 2nd November 2024            
-OL,21,   with Moongazer                       
-OL,22,   The Greyhound, Neath                 
-OL,23,E``````````````````````````````````` 2/2
+OL,11, CSaturday 6th July 2024                
+OL,12, F with Moongazer                       
+OL,13,   Harbwr Brewery, Saundersfoot         
+OL,15, CSaturday 2nd November 2024            
+OL,16, F with Moongazer                       
+OL,17,   The Greyhound, Neath                 
+OL,23,E```````````````````````````````````````
 OL,24,AIndex                                  
 FL,100,8ff,8ff,8ff,8ff,100
