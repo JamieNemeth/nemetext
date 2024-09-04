@@ -1,6 +1,6 @@
 DE,Main Menu
 DS,inserter
-SP,D:\xampp\htdocs\teletext\services\nemetext\P799-Credits.tti
+SP,C:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\nemetext\P799-Credits.tti
 PN,79901
 SC,0000
 PS,8000
@@ -22,5 +22,6 @@ OL,12,W                        $
 OL,14, Original listings from BBC Radio Times 
 OL,15, via the BBC Programme Index / Genome   
 OL,16, Project:Fhttps://genome.ch.bbc.co.uk/  
+OL,18, TNG-style template by ZXGuesser.       
 OL,24,ATOS                                    
 FL,701,8ff,8ff,8ff,8ff,8ff
