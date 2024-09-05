@@ -1,6 +1,6 @@
 DE,Nemboozle Finish Page
 DS,inserter
-SP,D:\xampp\htdocs\teletext\tools\bamboozle-generator\default-templates\nemboozle\P122-FinishTemplate.tti
+SP,D:\xampp\htdocs\teletext\services\nemetext\P14E.tti
 PN,14e00
 SC,0000
 PS,8040
@@ -28,7 +28,7 @@ OL,18,WjjC3-5   - A bronze Nemethsphere    W55
 OL,19,Wj*C0-2   - A Google of my name      W%5
 OL,20,W"-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.!
 OL,21,A```````````````````````````````````````
-OL,22,A]GWatch Jamie's latest YouTube videos  
-OL,23,A]Gyoutube.com/jamienemeth             
-OL,24,AIndex    BTwitch C   EventsF    Gigs    
+OL,22,S]DMake your own quiz! jamienemeth.co.uk
+OL,23,S]D  /teletext/tools/bamboozle-generator
+OL,24,AIndex    BTwitch C   EventsF    Gigs   
 FL,100,200,120,616,8ff,100
