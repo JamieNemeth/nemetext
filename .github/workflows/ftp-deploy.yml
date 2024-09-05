@@ -2,7 +2,7 @@ name: 🚀 FTP Deploy
 on: [push, workflow_dispatch]
 jobs:
   ftp-deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-18.04
     steps:
       - name: 🛒 Checkout
         uses: actions/checkout@v2
