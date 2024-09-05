@@ -6,6 +6,8 @@ jobs:
     steps:
       - name: 🛒 Checkout
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 10
       
       #- name: 💿 Install Git-FTP
       #  run: sudo apt-get install git-ftp
