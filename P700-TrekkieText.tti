@@ -1,6 +1,6 @@
 DE,Main Menu
 DS,inserter
-SP,D:\xampp\htdocs\teletext\services\nemetext\P700-TrekkieText.tti
+SP,C:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P700-TrekkieText.tti
 PN,70001
 SC,0000
 PS,8000
@@ -24,8 +24,8 @@ OL,14, original Star Trek TV listings on their
 OL,15, original air dates (in the UK at least)
 OL,16, from the BBC Radio Times archives.     
 OL,18,CP701FThe Original Series, Season 1     
-OL,19, (There will be more! If you're seeing  
-OL,20, this now, you're a very early adopter!)
+OL,19,CP710EQUIZ: 'The Man Trap' special      
+OL,20,CP711FThe Next Generation, Season 1     
 OL,22,CP799FSources/Credits                   
 OL,24,ATOS                                    
 FL,701,8ff,8ff,8ff,8ff,8ff
