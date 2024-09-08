@@ -1,6 +1,6 @@
 DE,Starfleet Academy Quiz
 DS,inserter
-SP,C:\xampp\htdocs\jamienemeth.co.uk\teletext\tools\bamboozle-generator\default-templates\starfleet-academy\P710-StartTemplate.tti
+SP,C:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P710.tti
 PN,71000
 SC,0000
 PS,8040
@@ -12,8 +12,8 @@ OL,3,S#j5hn5 j5j5.j=%  jj5 <jj5.j555j
 OL,4,S## #"#!# "!"!##"#!"! #""#!##"#!##"!!!s{
 OL,5, Commandant Boozler has an opening     .
 OL,6, for a cadet. But do you know your   .  
-OL,7, Starfleet history as          .        
-OL,8, think you do?    .                G.   
+OL,7, Starfleet history as well     .        
+OL,8, as you think you do?              G.   
 OL,9,                      \.  W `,####)W    
 OL,10, ]DHopefully you've   \   W6!  Sp~0Wk G.
 OL,11, ]Dbeen revising the  \G. S <|~3oW"5  
@@ -30,4 +30,4 @@ OL,21,           .       .             W " "
 OL,22,A]GMore from the Starfleet historical   
 OL,23,A]G database! Find the index on p700    
 OL,24,AQuestion 1                   CTOSF  TNG
-FL,70A,8ff,701,711,8ff,100
+FL,70a,8ff,701,711,8ff,100
