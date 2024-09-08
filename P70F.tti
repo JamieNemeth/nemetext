@@ -1,0 +1,33 @@
+DE,Starfleet Academy Quiz
+DS,inserter
+SP,C:\xampp\htdocs\jamienemeth.co.uk\teletext\tools\bamboozle-generator\default-templates\starfleet-academy\P122-FinishTemplate.tti
+PN,70F00
+SC,0000
+PS,8040
+CT,8,T
+RE,0
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,2,Ssht`p0p0zwj5pp`p0|0 {`p0pp`z5pp`pp0p`
+OL,3,S#j5hn5 j5j5.j=%  jj5 <jj5.j555j
+OL,4,S## #"#!# "!"!##"#!"! #""#!##"#!##"!!!s{
+OL,5, Well done, you passed!                .
+OL,6, You've proven your knowledge of     .  
+OL,7, Starfleet history...this time.         
+OL,8,                                   G.   
+OL,9, ]DOf course, there's \G .W `,####)W    
+OL,10, ]Da lot more to      \   W6!  Sp~0Wk G.
+OL,11, ]Dbeing a Starfleet  \G. S <|~3oW"5  
+OL,12, ]Dofficer than just  \   Sjzjojz4ht  
+OL,13, ]Dknowing history.   \   Sb?'~7/w)w>  
+OL,14, ]DBut I've a good    \G .S?(}rsx=jnwG. 
+OL,15, ]Dfeeling about you. \   Sm}tsssx}?j   
+OL,16,G .          .  W#/|pp    S +/}|/a'   
+OL,17,      .            W GQ `|}||p  p|||~}0
+OL,18,CPRESS THEAREDCBUTTON Q`  
+OL,19,CTO ACCESS DETAILS OF Q>!        W  ` Q"
+OL,20,CMORE MISSIONS!       Q!         W `7e  
+OL,21,           .       .             W " "  
+OL,22,A]GMore from the Starfleet historical   
+OL,23,A]G database! Find the index on p700    
+OL,24,AHistorical Database Index    CTOSF  TNG
+FL,700,8ff,701,711,8ff,100

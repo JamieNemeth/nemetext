@@ -1,0 +1,33 @@
+DE,Starfleet Academy Quiz
+DS,inserter
+SP,C:\xampp\htdocs\jamienemeth.co.uk\teletext\tools\bamboozle-generator\default-templates\starfleet-academy\P710-StartTemplate.tti
+PN,71000
+SC,0000
+PS,8040
+CT,8,T
+RE,0
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,2,Ssht`p0p0zwj5pp`p0|0 {`p0pp`z5pp`pp0p`
+OL,3,S#j5hn5 j5j5.j=%  jj5 <jj5.j555j
+OL,4,S## #"#!# "!"!##"#!"! #""#!##"#!##"!!!s{
+OL,5, Commandant Boozler has an opening     .
+OL,6, for a cadet. But do you know your   .  
+OL,7, Starfleet history as          .        
+OL,8, think you do?    .                G.   
+OL,9,                      \.  W `,####)W    
+OL,10, ]DHopefully you've   \   W6!  Sp~0Wk G.
+OL,11, ]Dbeen revising the  \G. S <|~3oW"5  
+OL,12, ]Dvideo records of   \   Sjzjojz4ht  
+OL,13, ]Dnotable missions?  \   Sb?'~7/w)w>  
+OL,14, ]DThis quiz will be  \G .S?(}rsx=jnwG. 
+OL,15, ]Da breeze if so!    \   Sm}tsssx}?j   
+OL,16,G .          .  W#/|pp    S +/}|/a'   
+OL,17,      .            W GQ `|}||p  p|||~}0
+OL,18,CPRESS THEAREDCBUTTON Q`  
+OL,19,CON YOUR CONTROL PADG.Q>!        W  ` Q"
+OL,20,CTO BEGIN!G    .      Q!         W `7e  
+OL,21,           .       .             W " "  
+OL,22,A]GMore from the Starfleet historical   
+OL,23,A]G database! Find the index on p700    
+OL,24,AQuestion 1                   CTOSF  TNG
+FL,70A,8ff,701,711,8ff,100

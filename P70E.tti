@@ -1,0 +1,33 @@
+DE,Starfleet Academy Quiz
+DS,inserter
+SP,C:\xampp\htdocs\jamienemeth.co.uk\teletext\tools\bamboozle-generator\default-templates\starfleet-academy\P121-BackTemplate.tti
+PN,70E00
+SC,0000
+PS,8040
+CT,8,T
+RE,0
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,2,Ssht`p0p0zwj5pp`p0|0 {`p0pp`z5pp`pp0p`
+OL,3,S#j5hn5 j5j5.j=%  jj5 <jj5.j555j
+OL,4,S## #"#!# "!"!##"#!"! #""#!##"#!##"!!!s{
+OL,5, Sorry, that wasn't correct!           .
+OL,6, But don't worry, we'll give you     .  
+OL,7, another go.                   .        
+OL,8,                                   G.   
+OL,9, ]DKnowing at least   \G .W `,####)W    
+OL,10, ]Da bit of Starfleet \   W6!  Sp~0Wk G.
+OL,11, ]Dhistory is very    \G. S <|~3oW"5  
+OL,12, ]Dimportant if you   \   Sjzjojz4ht  
+OL,13, ]Dwant to be an      \   Sb?'~7/w)w>  
+OL,14, ]Dofficer. It could  \G .S?(}rsx=jnwG. 
+OL,15, ]Dsave your life!    \   Sm}tsssx}?j   
+OL,16,G .          .  W#/|pp    S +/}|/a'   
+OL,17,      .            W GQ `|}||p  p|||~}0
+OL,18,CPRESS THEAREDCBUTTON Q`  
+OL,19,CON YOUR CONTROL PADG.Q>!        W  ` Q"
+OL,20,CTO TRY AGAIN! .      Q!         W `7e  
+OL,21,           .       .             W " "  
+OL,22,A]GMore from the Starfleet historical   
+OL,23,A]G database! Find the index on p700    
+OL,24,ATry again                    CTOSF  TNG
+FL,70A,70A,70A,70A,8FF,100
