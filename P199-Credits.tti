@@ -1,27 +1,26 @@
 DE,Credits
 DS,inserter
-SP,D:\xampp\htdocs\teletext\nemetext\P199.tti
+SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P199-Credits.tti
 PN,19901
 SC,0000
 PS,8000
 CT,8,T
 RE,0
 OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
-OL,2,EMViewer                                
+OL,2,EMWeb Viewer                            
 OL,3, - Tech & Software Ltd.                 
-OL,4,   Created by Tech & Software Ltd.      
-OL,5,  Ftech-and-software.ltd.uk             
-OL,7,   Used under the GNU Affero General    
-OL,8,   Public License 3                     
-OL,9,  Fgnu.org/licenses/agpl-3.0.en.html    
-OL,11,EMFont                                  
-OL,13,   Teletext font from XBMC by hacke78   
-OL,14,  Fgithub.com/xbmc                      
-OL,16,EMInspiration                           
-OL,18,   The brilliant ongoing work by        
-OL,19,   Alistair Cree, Nathan Dane,          
-OL,20,   Peter Kwan, and other enthusiasts    
-OL,21,  Fzxnet.co.uk                          
-OL,22,  Fnathanmediaservices.co.uk            
+OL,4,   Built from scratch by me, but heavily
+OL,5,   inspired by the SVG renderer created 
+OL,6,   by Tech & Software Ltd.              
+OL,7,  Ftech-and-software.ltd.uk             
+OL,9,EMFont                                  
+OL,11,   Teletext font from XBMC by hacke78   
+OL,12,  Fgithub.com/xbmc                      
+OL,14,EMInspiration                           
+OL,16,   The brilliant ongoing work by        
+OL,17,   Alistair Cree, Nathan Dane,          
+OL,18,   Peter Kwan, and other enthusiasts    
+OL,19,  Fzxnet.co.uk                          
+OL,20,  Fnathanmediaservices.co.uk            
 OL,24,AIndex                                  
 FL,100,0,0,0,8ff,100
