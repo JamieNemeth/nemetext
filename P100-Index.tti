@@ -21,7 +21,7 @@ OL,15,ESEEING THIS ON JAMIE'S TWITCH CHANNEL?
 OL,16, Type !tv in chat for instructions.     
 OL,17,E```````````````````````````````````````
 OL,18,EAbout NemetextG101 E About TeletextG102
-OL,19,ENemboozle!....G152 E Credits.......G199
+OL,19,ENemboozle!....G152 E A-Z...........G199
 OL,20,EGig List......G616 E TrekkieText...G700
 OL,21,^_                                      
 OL,22,D]GJoin the Nemethsphere Discord:       
@@ -48,7 +48,7 @@ OL,15,ESEEING THIS ON JAMIE'S TWITCH CHANNEL?
 OL,16, Type !tv in chat for instructions.     
 OL,17,E```````````````````````````````````````
 OL,18,EAbout NemetextG101 E About TeletextG102
-OL,19,ENemboozle!....G152 E Credits.......G199
+OL,19,ENemboozle!....G152 E A-Z...........G199
 OL,20,EGig List......G616 E TrekkieText...G700
 OL,22,U]GJamie's (occasional) live streams:   
 OL,23,U]Gtwitch.tv/jamienemeth                
@@ -74,7 +74,7 @@ OL,15,ESEEING THIS ON JAMIE'S TWITCH CHANNEL?
 OL,16, Type !tv in chat for instructions.     
 OL,17,E```````````````````````````````````````
 OL,18,EAbout NemetextG101 E About TeletextG102
-OL,19,ENemboozle!....G152 E Credits.......G199
+OL,19,ENemboozle!....G152 E A-Z...........G199
 OL,20,EGig List......G616 E TrekkieText...G700
 OL,22,A]GWatch Jamie's latest YouTube videos: 
 OL,23,A]Gyoutube.com/jamienemeth              
@@ -100,9 +100,35 @@ OL,15,ESEEING THIS ON JAMIE'S TWITCH CHANNEL?
 OL,16, Type !tv in chat for instructions.     
 OL,17,E```````````````````````````````````````
 OL,18,EAbout NemetextG101 E About TeletextG102
-OL,19,ENemboozle!....G152 E Credits.......G199
+OL,19,ENemboozle!....G152 E A-Z...........G199
 OL,20,EGig List......G616 E TrekkieText...G700
 OL,22,S]DMake your own quiz! jamienemeth.co.uk
 OL,23,S]D  /teletext/tools/bamboozle-generator
+OL,24,AAbout  BNemboozle!  CTrekkieText  FGigs
+FL,101,152,700,616,8ff,100
+PN,10005
+SC,0005
+PS,8000
+CT,8,T
+RE,0
+OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
+OL,2,U^  z]o/#c//?//o\? 
+OL,3,U^ h]W  uj5`p pp`0 p0ht p0`0pht  U\! 
+OL,4,U^`]W  oz5{5k7jwj7jw*}?j7 U\%  
+OL,5,U^~]W   "5o|$j5*}<*}*}<h7}*} U\7   
+OL,6,Uz]^\?    
+OL,8,M CHUNKY FRINGE '24: THE BLOG      P130 
+OL,10,E```````````````````````````````````````
+OL,11,ESEEING THIS ON JAMIE'S WEBSITE?        
+OL,12, Use the number keys to go to a page    
+OL,13, number, orARBGCYFBGfor Fastext links.  
+OL,15,ESEEING THIS ON JAMIE'S TWITCH CHANNEL? 
+OL,16, Type !tv in chat for instructions.     
+OL,17,E```````````````````````````````````````
+OL,18,EAbout NemetextG101 E About TeletextG102
+OL,19,ENemboozle!....G152 E A-Z...........G199
+OL,20,EGig List......G616 E TrekkieText...G700
+OL,22,E]CCheck out the newest part of Nemetext
+OL,23,E]C   on p110: Jamie's very own zine!   
 OL,24,AAbout  BNemboozle!  CTrekkieText  FGigs
 FL,101,152,700,616,8ff,100

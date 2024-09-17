@@ -1,0 +1,24 @@
+DE,A to Z
+DS,inserter
+SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P199-AtoZ.tti
+PN,19901
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
+OL,1,Upp  `p0                                
+OL,2,Uz`p x%                                
+OL,3,Uj  hw0                                
+OL,5,CABOUT NEMETEXT.....................B101
+OL,6,CABOUT TELETEXT.....................B102
+OL,7,CCHUNKY FRINGE '24 BLOG.............B130
+OL,8,CCREDITS............................B198
+OL,9,CGIGITISER (GIG LIST)...............B616
+OL,10,CNEMBOOZLE!.........................B152
+OL,11,CSTARFLEET COMMAND (QUIZ)...........B710
+OL,12,CTREKKIETEXT........................B700
+OL,13,CTWITCH INDEX.......................B200
+OL,14,C'ZINE 1............................B110
+OL,24,AIndex    BCredits    C'Zine 1     FGigs
+FL,100,198,110,616,8ff,100
