@@ -1,6 +1,6 @@
 DE,Main Menu
 DS,inserter
-SP,D:\xampp\htdocs\teletext\services\nemetext\P100-Index.tti
+SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P100-Index.tti
 PN,10001
 SC,0001
 PS,8000
@@ -20,14 +20,14 @@ OL,13, number, orARBGCYFBGfor Fastext links.
 OL,15,ESEEING THIS ON JAMIE'S TWITCH CHANNEL? 
 OL,16, Type !tv in chat for instructions.     
 OL,17,E```````````````````````````````````````
-OL,18,EAbout NemetextG101 EAbout Teletext.G102
-OL,19,ECredits.......G199 EEvents.........G120
-OL,20,EGig List......G616 ETwitch Index...G200
+OL,18,EAbout NemetextG101 E About TeletextG102
+OL,19,ENemboozle!....G152 E Credits.......G199
+OL,20,EGig List......G616 E TrekkieText...G700
 OL,21,^_                                      
 OL,22,D]GJoin the Nemethsphere Discord:       
 OL,23,D]Gdiscord.gg/gzu5nf5meM                
-OL,24,A About    BTwitch     CEvents    FGigs 
-FL,101,200,120,616,8ff,100
+OL,24,AAbout  BNemboozle!  CTrekkieText  FGigs
+FL,101,152,700,616,8ff,100
 PN,10002
 SC,0002
 PS,8000
@@ -47,13 +47,13 @@ OL,13, number, orARBGCYFBGfor Fastext links.
 OL,15,ESEEING THIS ON JAMIE'S TWITCH CHANNEL? 
 OL,16, Type !tv in chat for instructions.     
 OL,17,E```````````````````````````````````````
-OL,18,EAbout NemetextG101 EAbout Teletext.G102
-OL,19,ECredits.......G199 EEvents.........G120
-OL,20,EGig List......G616 ETwitch Index...G200
+OL,18,EAbout NemetextG101 E About TeletextG102
+OL,19,ENemboozle!....G152 E Credits.......G199
+OL,20,EGig List......G616 E TrekkieText...G700
 OL,22,U]GJamie's (occasional) live streams:   
 OL,23,U]Gtwitch.tv/jamienemeth                
-OL,24,A About    BTwitch     CEvents    FGigs 
-FL,101,200,120,616,8ff,100
+OL,24,AAbout  BNemboozle!  CTrekkieText  FGigs
+FL,101,152,700,616,8ff,100
 PN,10003
 SC,0003
 PS,8000
@@ -73,13 +73,13 @@ OL,13, number, orARBGCYFBGfor Fastext links.
 OL,15,ESEEING THIS ON JAMIE'S TWITCH CHANNEL? 
 OL,16, Type !tv in chat for instructions.     
 OL,17,E```````````````````````````````````````
-OL,18,EAbout NemetextG101 EAbout Teletext.G102
-OL,19,ECredits.......G199 EEvents.........G120
-OL,20,EGig List......G616 ETwitch Index...G200
+OL,18,EAbout NemetextG101 E About TeletextG102
+OL,19,ENemboozle!....G152 E Credits.......G199
+OL,20,EGig List......G616 E TrekkieText...G700
 OL,22,A]GWatch Jamie's latest YouTube videos: 
 OL,23,A]Gyoutube.com/jamienemeth              
-OL,24,A About    BTwitch     CEvents    FGigs 
-FL,101,200,120,616,8ff,100
+OL,24,AAbout  BNemboozle!  CTrekkieText  FGigs
+FL,101,152,700,616,8ff,100
 PN,10004
 SC,0004
 PS,8000
@@ -99,10 +99,10 @@ OL,13, number, orARBGCYFBGfor Fastext links.
 OL,15,ESEEING THIS ON JAMIE'S TWITCH CHANNEL? 
 OL,16, Type !tv in chat for instructions.     
 OL,17,E```````````````````````````````````````
-OL,18,EAbout NemetextG101 EAbout Teletext.G102
-OL,19,ECredits.......G199 EEvents.........G120
-OL,20,EGig List......G616 ETwitch Index...G200
+OL,18,EAbout NemetextG101 E About TeletextG102
+OL,19,ENemboozle!....G152 E Credits.......G199
+OL,20,EGig List......G616 E TrekkieText...G700
 OL,22,S]DMake your own quiz! jamienemeth.co.uk
 OL,23,S]D  /teletext/tools/bamboozle-generator
-OL,24,A About    BTwitch     CEvents    FGigs 
-FL,101,200,120,616,8ff,100
+OL,24,AAbout  BNemboozle!  CTrekkieText  FGigs
+FL,101,152,700,616,8ff,100
