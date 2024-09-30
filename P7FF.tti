@@ -1,3 +1,9 @@
 DE,TrekkieText custom header
-PN,7FF00
-OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
+DS,inserter
+SP,C:\xampp\htdocs\teletext\services\nemetext\P7FF.tti
+PN,7ff00
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        C%%#Sb]DTrekkieTextS$^\C %y%m.%d
