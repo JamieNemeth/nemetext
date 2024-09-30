@@ -1,6 +1,6 @@
 DE,Zine 1
 DS,inserter
-SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P110-Zine1.tti
+SP,C:\xampp\htdocs\teletext\services\nemetext\P110-Zine1.tti
 PN,11001
 SC,0000
 PS,8000
@@ -11,7 +11,7 @@ OL,1,U0`p0p      p0BG                    Uppp
 OL,2,U) x%|h<4|l j5FThe blocky world   U(,,,,
 OL,3,U hw0j55s j5Fas zine by JamieU`pssssss
 OL,4,E```````````````````````````````````````
-OL,5,Bp130 CCHUNKY FRINGE 2023:              
+OL,5,Bp123 CCHUNKY FRINGE 2023:              
 OL,6,      CTHE UNFINISHED BLOG              
 OL,8, In an attempt to shame myself into     
 OL,9, finishing my blocky blog aboutFLAST    
@@ -28,4 +28,4 @@ OL,21, bar staff's birthdays!F"HOW ON EARTH
 OL,22,FAM I SUPPOSED TO KNOW THAT?!?!"        
 OL,23,E```````````````````````````````````````
 OL,24,AChunkyBlog  BNemboozle!  CTwitch  FGigs
-FL,130,152,200,616,8ff,100
+FL,123,152,200,616,8ff,100

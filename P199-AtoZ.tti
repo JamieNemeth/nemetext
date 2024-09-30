@@ -1,6 +1,6 @@
 DE,A to Z
 DS,inserter
-SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P199-AtoZ.tti
+SP,C:\xampp\htdocs\teletext\services\nemetext\P199-AtoZ.tti
 PN,19901
 SC,0000
 PS,8000
@@ -12,7 +12,7 @@ OL,2,Uz`p x%
 OL,3,Uj  hw0                                
 OL,5,CABOUT NEMETEXT.....................B101
 OL,6,CABOUT TELETEXT.....................B102
-OL,7,CCHUNKY FRINGE '24 BLOG.............B130
+OL,7,CCHUNKY FRINGE '24 BLOG.............B123
 OL,8,CCREDITS............................B198
 OL,9,CGIGITISER (GIG LIST)...............B616
 OL,10,CNEMBOOZLE!.........................B152
