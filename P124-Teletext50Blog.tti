@@ -1,6 +1,6 @@
 DE,Teletext 50 blog
 DS,inserter
-SP,C:\xampp\htdocs\teletext\services\nemetext\P124-Teletext50Blog.tti
+SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P124-Teletext50Blog.tti
 PN,12401
 SC,0001
 PS,8000
@@ -30,7 +30,7 @@ FL,110,152,200,616,8ff,100
 PN,12402
 SC,0002
 PS,8000
-CT,8,T
+CT,30,T
 RE,0
 OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
 OL,2,U;j5`p0ppFTELETEXT 50: 21-22 Sept 2024 
@@ -45,7 +45,7 @@ OL,11,Fare more interested in helping you with
 OL,12,Fthe questions you didn't answer, and to
 OL,13,Ffind out how you think.CIf you don't   
 OL,14,Cget into your first choice college,    
-OL,15,Cyou get put into a pool.               
+OL,15,Cdon't worry, you'll be put into a pool!
 OL,17, Well, I got grilled on the questions I 
 OL,18, had already given my all on, leaving me
 OL,19, ineptly nodding at the right answers.  
@@ -57,25 +57,25 @@ FL,110,152,200,616,8ff,100
 PN,12403
 SC,0003
 PS,8000
-CT,8,T
+CT,30,T
 RE,0
 OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
 OL,2,U;j5`p0ppFTELETEXT 50: 21-22 Sept 2024 
 OL,3,Uz*uju5zFCentre for Computing History 
 OL,4,E``````U,.E`````````````````````````````
-OL,5, I knew there were no guarantees, but I 
-OL,6, had already started to imagine the life
+OL,5, I knew there were no guarantees, butCI 
+OL,6,Chad already started to imagineGthe life
 OL,7, and future I may have had in Cambridge,
 OL,8, until the dream was snatched away by a 
 OL,9, bar set far too high and far too soon. 
-OL,10, It'd be a whole year before I'd learn  
+OL,10,CIt'd be a whole yearGbefore I'd learn  
 OL,11, how to answer those test questions.    
 OL,13, Perhaps an alternate-universe me ended 
 OL,14, up graduating from Cambridge, and then 
 OL,15, stayed on to do a PhD, putting me near 
 OL,16, the right place at the right time to   
-OL,17, get involved with the founding of The  
-OL,18, Centre for Computing History, a museum 
+OL,17, get involved with the founding ofCThe  
+OL,18,CCentre for Computing History,Ga museum 
 OL,19, which has been the backdrop of many    
 OL,20, YouTube videos that the real-universe  
 OL,21, me has enjoyed watching over the years?
@@ -85,23 +85,163 @@ FL,110,152,200,616,8ff,100
 PN,12404
 SC,0004
 PS,8000
-CT,8,T
+CT,30,T
 RE,0
 OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
 OL,2,U;j5`p0ppFTELETEXT 50: 21-22 Sept 2024 
 OL,3,Uz*uju5zFCentre for Computing History 
 OL,4,E``````U,.E`````````````````````````````
-OL,5, It certainly felt like a pilgrimage, to
-OL,6, another place with an esteemed history,
-OL,7, to commemorate the esteemed history of 
-OL,8, Teletext on its 50th birthday.         
-OL,10, It was also a pilgrimage that nearly   
-OL,11, ended before it really began. Since me 
-OL,12, and mum were travelling at rush hour,  
-OL,13, after I had finished work, we decided  
-OL,14, to outsmart the traffic, avoid the M4, 
-OL,15, and use our trusty non-motorway route  
-OL,16, through mid-Wales and Herefordshire.   
+OL,5, And on the third (full) weekend in     
+OL,6, September, this museum would serve as  
+OL,7, the backdrop for a celebration of 50   
+OL,8, years since the world's very first     
+OL,9, Teletext service - Ceefax - was born.  
+OL,11, Visiting the museum on any ordinary day
+OL,12, would have felt like a pilgrimage, and 
+OL,13, a privilege.F"I get to follow in the   
+OL,14,Ffootsteps of Tom Scott!"GI heard myself
+OL,15, say aloud, before my brain's very next 
+OL,16, thought put me down...F"yeah, the Tom  
+OL,17,FScott you ordered off Temu..."         
+OL,19, My plan was to make (inferior) YouTube 
+OL,20, videos if I could, true.CBut the voyage
+OL,21,Cwas nearly over almost before it began.
 OL,22,E`````````````````````````````````` 4/??
+OL,24,A'Zine 1   BNemboozle!   CTwitch   FGigs
+FL,110,152,200,616,8ff,100
+PN,12405
+SC,0005
+PS,8000
+CT,30,T
+RE,0
+OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
+OL,2,U;j5`p0ppFTELETEXT 50: 21-22 Sept 2024 
+OL,3,Uz*uju5zFCentre for Computing History 
+OL,4,E``````U,.E`````````````````````````````
+OL,5, Since myself and mum were setting off  
+OL,6, after I'd finished work - at rush hour 
+OL,7, - we'd decided it was wise to avoid the
+OL,8, M4 from Swansea, and use our trusty old
+OL,9, non-motorway route, through mid-Wales  
+OL,10, and Herefordshire, to join on to the M5
+OL,11, much further up towards Birmingham.    
+OL,13, All was going reasonably well up to our
+OL,14, traditional toilet stop at Glasbury,   
+OL,15, near Hay-on-Wye. Our journey had been  
+OL,16, lit by lightning, but the rain wasn't  
+OL,17, too bad, and we hadn't encountered so  
+OL,18, much as a puddle. We had a sandwich in 
+OL,19, the car, and then continued on our way.
+OL,21, The rain got a little heavier...       
+OL,22,E`````````````````````````````````` 5/??
+OL,24,A'Zine 1   BNemboozle!   CTwitch   FGigs
+FL,110,152,200,616,8ff,100
+PN,12406
+SC,0006
+PS,8000
+CT,30,T
+RE,0
+OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
+OL,2,U;j5`p0ppFTELETEXT 50: 21-22 Sept 2024 
+OL,3,Uz*uju5zFCentre for Computing History 
+OL,4,E``````U,.E`````````````````````````````
+OL,5, ...but it still wasn't what I'd call a 
+OL,6, deluge. I've never been scared of big  
+OL,7, puddles before - in fact,CI usually end
+OL,8,Cup quite enjoying themG- the kawoosh I 
+OL,9, made on driving through them making me 
+OL,10, shout "woohoo!" out loud.              
+OL,12, That was until, in the dark, with no   
+OL,13, warning signs, and no visual warning,  
+OL,14, after a bend,Cmy Mini was afloat.      
+OL,16, There was no going back, and there was 
+OL,17, almost no going forwards, as we started
+OL,18, rapidly losing momentum. Mum shouted to
+OL,19, meA"DON'T STOP!"Gand I somehow managed 
+OL,20, to slam the car into third gear, and   
+OL,21, put my foot all the way to the floor.  
+OL,22,E`````````````````````````````````` 6/??
+OL,24,A'Zine 1   BNemboozle!   CTwitch   FGigs
+FL,110,152,200,616,8ff,100
+PN,12407
+SC,0007
+PS,8000
+CT,30,T
+RE,0
+OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
+OL,2,U;j5`p0ppFTELETEXT 50: 21-22 Sept 2024 
+OL,3,Uz*uju5zFCentre for Computing History 
+OL,4,E``````U,.E`````````````````````````````
+OL,5,CThe car howled and screamed into the   
+OL,6,Cnight,Gbut I kept it up because we'd   
+OL,7, gained a crucial solitary mile-per-hour
+OL,8,Gin the forward direction. And we very  
+OL,9, much needed it. This wasn't just a big 
+OL,10, puddle, it was a full-on lagoon.       
+OL,12, I had no idea where the other side was,
+OL,13, nor if we would even make it. I somehow
+OL,14, got some grip back, pulled over safely,
+OL,15, and waited for the inevitable splutter 
+OL,16, of my engine and flicker of headlights.
+OL,18,CBut it didn't happen.GI mean, the smell
+OL,19, from all that revving was atrocious,   
+OL,20, but my plucky Mini had somehow proved  
+OL,21, itself to be semi-amphibious!          
+OL,22,E`````````````````````````````````` 7/??
+OL,24,A'Zine 1   BNemboozle!   CTwitch   FGigs
+FL,110,152,200,616,8ff,100
+PN,12408
+SC,0008
+PS,8000
+CT,30,T
+RE,0
+OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
+OL,2,U;j5`p0ppFTELETEXT 50: 21-22 Sept 2024 
+OL,3,Uz*uju5zFCentre for Computing History 
+OL,4,E``````U,.E`````````````````````````````
+OL,5,CI wasn't intent on proving it more than
+OL,6,Conce.GUnfortunately the roads had other
+OL,7, ideas. We carried on tentatively, after
+OL,8,Gassuming we must have been through the 
+OL,9, worst of it, until an oncoming car was 
+OL,10, rapidly flashing their headlights at us
+OL,11, in a way they definitely didn't want to
+OL,12, be ignored.                            
+OL,14, We're forever grateful to them, for not
+OL,15, only stopping, but showing us how to   
+OL,16, get out of the nightmare, as the satnav
+OL,17, was hell-bent on sending us back to the
+OL,18,Glagoon.                                
+OL,20, It wasn't long, though, before even our
+OL,21, "safe route" presented flash floods.   
+OL,22,E`````````````````````````````````` 8/??
+OL,24,A'Zine 1   BNemboozle!   CTwitch   FGigs
+FL,110,152,200,616,8ff,100
+PN,12409
+SC,0009
+PS,8000
+CT,30,T
+RE,0
+OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
+OL,2,U;j5`p0ppFTELETEXT 50: 21-22 Sept 2024 
+OL,3,Uz*uju5zFCentre for Computing History 
+OL,4,E``````U,.E`````````````````````````````
+OL,5,CLiterally every turn seemed to be      
+OL,6,Cblocked,Gwhether by a flash flood, or a
+OL,7, 'ROAD CLOSED' sign. Even on the A465 in
+OL,8,GHereford - a relatively major road, by 
+OL,9, comparison -CI ended up slamming on the
+OL,10,CbrakesGas another pool and a slew of   
+OL,11, rocks appeared ahead of me. The other  
+OL,12, (presumably local) driversCimpatiently 
+OL,13, showed me the way through. I'm sorry to
+OL,14, have startled you, but I couldn't risk 
+OL,15, it. I didn't have a 4x4 like you lot!  
+OL,17, We found another place to pull over, to
+OL,18, rest and regroup. Mum was in tears, and
+OL,19, I admit, so was I nearly.F"Can we just 
+OL,20,Fgo home?! If there's any more of these 
+OL,21,Ffloods?"CI was so close to saying yes. 
+OL,22,E`````````````````````````````````` 9/??
 OL,24,A'Zine 1   BNemboozle!   CTwitch   FGigs
 FL,110,152,200,616,8ff,100

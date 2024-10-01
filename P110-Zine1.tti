@@ -1,10 +1,40 @@
 DE,Zine 1
 DS,inserter
-SP,C:\xampp\htdocs\teletext\services\nemetext\P110-Zine1.tti
+SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P110-Zine1.tti
 PN,11001
-SC,0000
+SC,0001
 PS,8000
-CT,8,T
+CT,15,T
+RE,0
+OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
+OL,1,U0`p0p      p0BG                    Uppp
+OL,2,U) x%|h<4|l j5FThe blocky world   U(,,,,
+OL,3,U hw0j55s j5Fas zine by JamieU`pssssss
+OL,4,E```````````````````````````````````````
+OL,5,Bp124 CTELETEXT 50 BLOG                 
+OL,7, Is it a boat? Is it a...Mini? Yes!     
+OL,8, My tale of a pilgrimage toFThe Centre  
+OL,9,Ffor Computing HistoryGin Cambridge for 
+OL,10, theF50th birthday of TeletextGthat was 
+OL,11, nearly over almost before it began...  
+OL,12,W    `p                                 
+OL,13,W    eps9 p,dp0                         
+OL,14,S     (1W*pppp:          A DON'T STOP!  
+OL,15,S     "     (1WppppppppppA/             
+OL,16, DKAWOOSH!S "W`&8!  5   "i0             
+OL,17,T      0 (  Wh}~||||}|||||}|ppp         
+OL,18,T  ( !$$!12 W~?//}~//o}0       
+OL,19,T  0 $!11$daW7`,d"!8,0k5Tx0   
+OL,20,T   ( $  q||uW*p:T||||||||tWep%Tp~|||
+OL,21,T ppx|~}|||~}|||
+OL,22,T      #####////////////o
+OL,23,E``````````````````````````````````` 1/2
+OL,24,AChunkyBlog  BNemboozle!  CTwitch  FGigs
+FL,123,152,200,616,8ff,100
+PN,11002
+SC,0002
+PS,8000
+CT,30,T
 RE,0
 OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
 OL,1,U0`p0p      p0BG                    Uppp
@@ -12,12 +42,12 @@ OL,2,U) x%|h<4|l j5FThe blocky world   U(,,,,
 OL,3,U hw0j55s j5Fas zine by JamieU`pssssss
 OL,4,E```````````````````````````````````````
 OL,5,Bp123 CCHUNKY FRINGE 2023:              
-OL,6,      CTHE UNFINISHED BLOG              
+OL,6,      CTHE FINISHED BLOG              
 OL,8, In an attempt to shame myself into     
 OL,9, finishing my blocky blog aboutFLAST    
-OL,10,FYEAR'SGeventFBEFOREGthis year's,       
-OL,11, I'm putting what I've done so farFLIVE 
-OL,12,Fon Nemetext!                           
+OL,10,FYEAR'SGeventFBEFOREGthis year's, I put 
+OL,11, my work in progressFLIVE on Nemetext!  
+OL,12, And it worked! I finished it!          
 OL,14,Bp152C NEMBOOZLE!                       
 OL,16, A quiz that'll either help youFlearn a 
 OL,17,Fbit about me,Gor realise that the quiz 
@@ -26,6 +56,6 @@ OL,19, the pub quiz I went to once where the
 OL,20, tie-breaker was to guess one of the    
 OL,21, bar staff's birthdays!F"HOW ON EARTH   
 OL,22,FAM I SUPPOSED TO KNOW THAT?!?!"        
-OL,23,E```````````````````````````````````````
+OL,23,E``````````````````````````````````` 2/2
 OL,24,AChunkyBlog  BNemboozle!  CTwitch  FGigs
 FL,123,152,200,616,8ff,100
