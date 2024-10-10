@@ -1,6 +1,6 @@
 DE,Main Menu
 DS,inserter
-SP,C:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P700-TrekkieText.tti
+SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P700-TrekkieText.tti
 PN,70001
 SC,0000
 PS,8000
@@ -27,5 +27,5 @@ OL,18,CP701FThe Original Series, Season 1
 OL,19,CP710EQUIZ: 'The Man Trap' special      
 OL,20,CP711FThe Next Generation, Season 1     
 OL,22,CP799FSources/Credits                   
-OL,24,ATOS                                    
-FL,701,8ff,8ff,8ff,8ff,8ff
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,700
