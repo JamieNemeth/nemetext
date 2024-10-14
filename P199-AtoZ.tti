@@ -1,24 +1,46 @@
 DE,A to Z
 DS,inserter
-SP,C:\xampp\htdocs\teletext\services\nemetext\P199-AtoZ.tti
+SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P199-AtoZ.tti
 PN,19901
-SC,0000
+SC,0001
 PS,8000
-CT,8,T
+CT,15,T
 RE,0
 OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
 OL,1,Upp  `p0                                
 OL,2,Uz`p x%                                
 OL,3,Uj  hw0                                
-OL,5,CABOUT NEMETEXT.....................B101
-OL,6,CABOUT TELETEXT.....................B102
-OL,7,CCHUNKY FRINGE '23 BLOG.............B123
-OL,8,CCREDITS............................B198
-OL,9,CGIGITISER (GIG LIST)...............B616
-OL,10,CNEMBOOZLE!.........................B152
-OL,11,CSTARFLEET COMMAND (QUIZ)...........B710
-OL,12,CTREKKIETEXT........................B700
-OL,13,CTWITCH INDEX.......................B200
-OL,14,C'ZINE 1............................B110
+OL,4,E```````````````````````````````````````
+OL,5,Ux]G AU'^\                              
+OL,6,CAbout Nemetext.....................B101
+OL,7,CAbout Teletext.....................B102
+OL,10,Ux]G CU'^\                              
+OL,11,CChunky Fringe '23 (blog)...........B123
+OL,12,CCredits............................B198
+OL,15,Ux]G GU'^\                              
+OL,16,CGigitiser (Jamie's gig list).......B616
+OL,19,Ux]G NU'^\                              
+OL,20,CNemboozle! (quiz)..................B152
+OL,23,E``````````````````````````````````` 1/2
+OL,24,AIndex    BCredits    C'Zine 1     FGigs
+FL,100,198,110,616,8ff,100
+PN,19902
+SC,0002
+PS,8000
+CT,15,T
+RE,0
+OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
+OL,1,Upp  `p0                                
+OL,2,Uz`p x%                                
+OL,3,Uj  hw0                                
+OL,4,E```````````````````````````````````````
+OL,5,Ux]G SU'^\                              
+OL,6,CStarfleet Command (quiz)...........B710
+OL,9,Ux]G TU'^\                              
+OL,10,C_Teletext50 (blog).................B124
+OL,11,CTrekkieText........................B700
+OL,14,Ux]G ZU'^\                              
+OL,15,C'Zine 1............................B110
+OL,23,E``````````````````````````````````` 2/2
 OL,24,AIndex    BCredits    C'Zine 1     FGigs
 FL,100,198,110,616,8ff,100
