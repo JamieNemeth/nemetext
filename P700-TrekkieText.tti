@@ -1,10 +1,10 @@
-DE,Main Menu
+DE,TrekkieText Index
 DS,inserter
 SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P700-TrekkieText.tti
 PN,70001
-SC,0000
+SC,0001
 PS,8000
-CT,8,T
+CT,15,T
 RE,0
 OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,W           `       $                   
@@ -19,6 +19,34 @@ OL,9,W             `}~?9#)0
 OL,10,W             "o5e"`%                 
 OL,11,W                ##!#!                  
 OL,12,W                        $              
+OL,13, These are the voyages to bring you the 
+OL,14, original Star Trek TV listings on their
+OL,15, original air dates (in the UK at least)
+OL,16, from the BBC Radio Times archives.     
+OL,18,CP701FThe Original Series, Season 1     
+OL,19,CP710EQUIZ: 'The Man Trap' special      
+OL,20,CP711FThe Next Generation, Season 1     
+OL,22,CP799FSources/Credits                   
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,700
+PN,70002
+SC,0002
+PS,8000
+CT,15,T
+RE,0
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,1,      .          .                    . 
+OL,2, .           W`pppppppppp0G     .       
+OL,3,    Wp8,######!          "#####,,dpG .  
+OL,4,W p,#   px||t0 ( 0(( $ $ ` (   ``  ##),0
+OL,5,W*p   ~////-$   `    0   "  !!    `8!
+OL,6,  W#,dp#+(//o}|p    (     "  pp8,#!  
+OL,7,      W####),,,,,,l|t    p,#####G     . 
+OL,8,  .        .      W+5 8#G  .     .     
+OL,9,      .    Q //%G.W`5 u    Q//%G       
+OL,10,    .        We   x'VppW)0G.W`%G     .  
+OL,11,         .   W ###+dV##W8####!G   .     
+OL,12,   .        .     W ####G    .         .
 OL,13, These are the voyages to bring you the 
 OL,14, original Star Trek TV listings on their
 OL,15, original air dates (in the UK at least)
