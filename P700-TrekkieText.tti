@@ -23,9 +23,9 @@ OL,13, These are the voyages to bring you the
 OL,14, original Star Trek TV listings on their
 OL,15, original air dates (in the UK at least)
 OL,16, from the BBC Radio Times archives.     
-OL,18,CP701FThe Original Series, Season 1     
-OL,19,CP710EQUIZ: 'The Man Trap' special      
-OL,20,CP711FThe Next Generation, Season 1     
+OL,18,CP701FTOS Season 1   CP711FTNG Season 1 
+OL,19,CP721FDS9 Season 1   CP731FVOY Season 1 
+OL,21,CP710EQUIZ: 'The Man Trap' special      
 OL,22,CP799FSources/Credits                   
 OL,24,ATOS      BTNG       CQuiz      FCredits
 FL,701,711,710,799,8ff,700
@@ -51,9 +51,64 @@ OL,13, These are the voyages to bring you the
 OL,14, original Star Trek TV listings on their
 OL,15, original air dates (in the UK at least)
 OL,16, from the BBC Radio Times archives.     
-OL,18,CP701FThe Original Series, Season 1     
-OL,19,CP710EQUIZ: 'The Man Trap' special      
-OL,20,CP711FThe Next Generation, Season 1     
+OL,18,CP701FTOS Season 1   CP711FTNG Season 1 
+OL,19,CP721FDS9 Season 1   CP731FVOY Season 1 
+OL,21,CP710EQUIZ: 'The Man Trap' special      
+OL,22,CP799FSources/Credits                   
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,700
+PN,70003
+SC,0003
+PS,8000
+CT,15,T
+RE,0
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,1,      .          .              .     . 
+OL,2,  .   W`06G . W(d0G.  .   V`8,8,dp G    
+OL,3,     Wx!j!G   . W"tG    Vxw|s,4iG   .
+OL,4,   .Wh% z0G.    .W*4G  Vhm%5o0pp?='4G . 
+OL,5,.  Wh7p,//|<,,lpp0 }G . Vm9.l|<.y>!G   
+OL,6, W`45 hw~vtpps14G . V+,ws}/'G .   
+OL,7,Wh7 5x|k#ss##  #+mj}G           .    . 
+OL,8,W +t;! 5##   pp|>/%G    . W px||ppG  .
+OL,9,  W"+/}|~|||//'!h7G   .  Wx'7m0G 
+OL,10, . W"}G   .    W`8'G .    W:##5j 7#+0 
+OL,11,    W"m0G   . W"!G       Q(,W "#### Q(, 
+OL,13, These are the voyages to bring you the 
+OL,14, original Star Trek TV listings on their
+OL,15, original air dates (in the UK at least)
+OL,16, from the BBC Radio Times archives.     
+OL,18,CP701FTOS Season 1   CP711FTNG Season 1 
+OL,19,CP721FDS9 Season 1   CP731FVOY Season 1 
+OL,21,CP710EQUIZ: 'The Man Trap' special      
+OL,22,CP799FSources/Credits                   
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,700
+PN,70004
+SC,0004
+PS,8000
+CT,15,T
+RE,0
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,1,   .   .     .        W`ppppppG         
+OL,2,           .      W`x,.#(,||||tG    .   
+OL,3, .    .        W`x.!`p,,###-|;}G       
+OL,4,.            W`>#p,&!    h~}b5jG      .
+OL,5,   .     .  W8'8#     (,.o?" z7G .     
+OL,6, .   .     W6a6       p||~! `7G     .  
+OL,7,       .  Wj "#!   `|~/!`x'G .       
+OL,8,.         W"-0    pp0||<$p<'G          .
+OL,9,     .    . W#4  gpp:`,,#!G      .      
+OL,10,        W`,4 h!   `xfqG  .              
+OL,11,   .   W(qns,u  `x=a&G           .     
+OL,12,           W#+///#!#!G        .        .
+OL,13, These are the voyages to bring you the 
+OL,14, original Star Trek TV listings on their
+OL,15, original air dates (in the UK at least)
+OL,16, from the BBC Radio Times archives.     
+OL,18,CP701FTOS Season 1   CP711FTNG Season 1 
+OL,19,CP721FDS9 Season 1   CP731FVOY Season 1 
+OL,21,CP710EQUIZ: 'The Man Trap' special      
 OL,22,CP799FSources/Credits                   
 OL,24,ATOS      BTNG       CQuiz      FCredits
 FL,701,711,710,799,8ff,700
