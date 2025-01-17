@@ -1,12 +1,8 @@
 DE,Star Trek Deep Space Nine - Season 1
-DS,inserter
-SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P721-DS9Season01.tti
 PN,72101
-SC,0000
+SC,0001
 PS,8000
 CT,15,T
-RE,0
-OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
 OL,1,W8##########4  j#######################d
 OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
 OL,3,W5jF                 V4||||||||||||$8Wu.
@@ -27,6 +23,528 @@ OL,17,W`nFhostile Cardassians. The new     W5j
 OL,18,W5jFcommander, Benjamin Sisko, must  W5j
 OL,19,W5jFprevent old hostilities from     W5j
 OL,20,W5jFerupting again.                  W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72102
+SC,0002
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E04 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FA MAN ALONE      V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1995 10 05^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 01 17^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFOn Deep Space Nine a disparate   W5j
+OL,15,W5jFand untested crew try to come to,W5j
+OL,16,W=!Fterms with their new home and    W5j
+OL,17,W`nFeach other. Then Security Chief  W5j
+OL,18,W5jFOdo is suspected of murdering an W5j
+OL,19,W5jFold adversary.                   W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72103
+SC,0003
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E03 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FPAST PROLOGUE    V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1995 10 12^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 01 10^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFMajor Kira Nerys faces a         W5j
+OL,15,W5jFdifficult personal decision.     W5j
+OL,16,W=!F                                 W5j
+OL,17,W`nF                                 W5j
+OL,18,W5jF                                 W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72104
+SC,0004
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E05 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FBABEL            V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1995 10 19^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 01 24^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFSisko puts Deep Space Nine under W5j
+OL,15,W5jFquarantine when an unknown       W5j
+OL,16,W=!Fairborne virus causes O'Brien andW5j
+OL,17,W`nFother crew members to speak      W5j
+OL,18,W5jFgibberish.                       W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72105
+SC,0005
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E06 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FCAPTIVE PURSUIT  V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1995 10 26^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 01 31^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFO'Brien befriends a reptilian    W5j
+OL,15,W5jFalien who, he discovers, was bredW5j
+OL,16,W=!Fto be prey for hunters.          W5j
+OL,17,W`nF                                 W5j
+OL,18,W5jF                                 W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72106
+SC,0006
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E07 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FQ-LESS           V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1995 11 02^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 02 07^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFDax takes on board Vash, an      W5j
+OL,15,W5jFarchaeologist. Unfortunately,    W5j
+OL,16,W=!Finterdimensional prankster Q     W5j
+OL,17,W`nFseems to have come along for     W5j
+OL,18,W5jFthe ride as well.                W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72107
+SC,0007
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E08 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FDAX              V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1995 11 09^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 02 14^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFLieutenant Dax is taken hostage  W5j
+OL,15,W5jFand accused of treason and       W5j
+OL,16,W=!Fmurder.                          W5j
+OL,17,W`nF                                 W5j
+OL,18,W5jF                                 W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72108
+SC,0008
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E09 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FTHE PASSENGER    V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1995 11 16^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 02 21^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFA thief and murderer causes chaosW5j
+OL,15,W5jFfrom beyond the grave.           W5j
+OL,16,W=!F                                 W5j
+OL,17,W`nF                                 W5j
+OL,18,W5jF                                 W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72109
+SC,0009
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E10 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FMOVE ALONG HOME  V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1995 11 23^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 03 14^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFSisko meets a formal alien       W5j
+OL,15,W5jFdelegation interested in playing W5j
+OL,16,W=!Fgames - with officers' lives.    W5j
+OL,17,W`nF                                 W5j
+OL,18,W5jF                                 W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72110
+SC,0010
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E11 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FTHE NAGUS        V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1995 11 30^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 03 21^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFThe ancient Nagus - leader of theW5j
+OL,15,W5jFFerengi financial empire -       W5j
+OL,16,W=!Farrives on Deep Space Nine and   W5j
+OL,17,W`nFnominates Quark as his successor.W5j
+OL,18,W5jF                                 W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72111
+SC,0011
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E12 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FVORTEX           V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1995 12 07^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 04 18^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFAn alien criminal tells Odo he   W5j
+OL,15,W5jFcan locate other shape-shifters. W5j
+OL,16,W=!F                                 W5j
+OL,17,W`nF                                 W5j
+OL,18,W5jF                                 W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72112
+SC,0012
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E13 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FBATTLE LINES     V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1995 12 14^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 04 25^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFSisko, Kira and Bashir become    W5j
+OL,15,W5jFstranded on a war-torn world     W5j
+OL,16,W=!Fwhere combatants never die.      W5j
+OL,17,W`nF                                 W5j
+OL,18,W5jF                                 W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72113
+SC,0013
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E14 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FTHE STORYTELLER  V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1995 12 21^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 05 02^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFSisko and Kira attempt to mediateW5j
+OL,15,W5jFin a land dispute between two    W5j
+OL,16,W=!FBajoran factions.                W5j
+OL,17,W`nF                                 W5j
+OL,18,W5jF                                 W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72114
+SC,0014
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E15 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FPROGRESS         V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1995 12 28^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 05 09^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFThe Bajoran government is about  W5j
+OL,15,W5jFto tap the energy of its fifth   W5j
+OL,16,W=!Fmoon, Jeraddo. Kira and Dax are  W5j
+OL,17,W`nFassigned to ensure that all the  W5j
+OL,18,W5jFinhabitants have been evacuated, W5j
+OL,19,W5jFbut sensors detect a humanoid    W5j
+OL,20,W5jFsettlement.                      W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72115
+SC,0015
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E16 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FIF WISHES WERE   V}|tp  )2(1 SW<l
+OL,8,W5kFHORSES           Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1996 01 04^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 05 16^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFWhen people's fantasies start    W5j
+OL,15,W5jFcoming to life on the space      W5j
+OL,16,W=!Fstation, lives are at stake.     W5j
+OL,17,W`nF                                 W5j
+OL,18,W5jF                                 W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72116
+SC,0016
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E17 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FTHE FORSAKEN     V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1996 01 11^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 05 23^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFThe unstoppable Lwaxana Troi setsW5j
+OL,15,W5jFher romantic sights on Odo.      W5j
+OL,16,W=!F                                 W5j
+OL,17,W`nF                                 W5j
+OL,18,W5jF                                 W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72117
+SC,0017
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E18 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FDRAMATIS PERSONAEV}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1996 01 18^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 05 30^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFA deadly struggle for control of W5j
+OL,15,W5jFthe space station pits Kira      W5j
+OL,16,W=!Fagainst Sisko.                   W5j
+OL,17,W`nF                                 W5j
+OL,18,W5jF                                 W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72118
+SC,0018
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E20 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FIN THE HANDS     V}|tp  )2(1 SW<l
+OL,8,W5kFOF THE PROPHETS  Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1996 02 01^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 06 20^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFKeiko O'Brien's lessons about theW5j
+OL,15,W5jFwormhole threaten to split the   W5j
+OL,16,W=!FFederation and the Bajorans.     W5j
+OL,17,W`nF                                 W5j
+OL,18,W5jF                                 W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
+OL,21,W5jF                                 W  
+OL,22,W5"#######5 `'#k j##################d   
+OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,8ff
+PN,72119
+SC,0019
+PS,8000
+CT,15,T
+OL,1,W8##########4  j#######################d
+OL,2,W5`pppppppppy  jpppppppppppppppppppppp0j
+OL,3,W5jF                 V4||||||||||||$8Wu.
+OL,4,W5jF  DEEP SPACE NINEV5?/a& Wpl
+OL,5,WujF         S01 E19 Vus3/o%5  Wu.
+OL,6,W #FTITLE:  F        V5 "#,r+?a&S|||W  
+OL,7,Wp FDUET             V}|tp  )2(1 SW<l
+OL,8,W5kF                 Vt`& "4SW5j
+OL,9,W5jF                 V?!  V*0 \ W5j
+OL,10,W5jFUKAD: 1996 01 25^VQ]_Q]V e  W\5j
+OL,11,W5jFOAD:  1993 06 13^V?/Q]_Q]V j  W\5j
+OL,12,WuzV                ^8-6jQ]_Q]V j  W\5j
+OL,13,W  V#################ep'#############W5j
+OL,14,W<kFA sick Cardassian brought to the W5j
+OL,15,W5jFstation's infirmary is suspected W5j
+OL,16,W=!Fof war crimes.                   W5j
+OL,17,W`nF                                 W5j
+OL,18,W5jF                                 W5j
+OL,19,W5jF                                 W5j
+OL,20,W5jF                                 W"n
 OL,21,W5jF                                 W  
 OL,22,W5"#######5 `'#k j##################d   
 OL,23,W)pppppppz  vpp5 jpppppppppppppppppp,%  
