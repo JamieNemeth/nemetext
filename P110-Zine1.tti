@@ -1,6 +1,6 @@
 DE,Zine 1
 DS,inserter
-SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P110-Zine1.tti
+SP,C:\xampp\htdocs\teletext\services\nemetext\P110-Zine1.tti
 PN,11001
 SC,0001
 PS,8000
@@ -28,7 +28,7 @@ OL,19,T  0 $!11$daW7`,d"!8,0k5Tx0
 OL,20,T   ( $  q||uW*p:T||||||||tWep%Tp~|||
 OL,21,T ppx|~}|||~}|||
 OL,22,T      #####////////////o
-OL,23,E``````````````````````````````````` 1/2
+OL,23,E``````````````````````````````````` 1/3
 OL,24,AChunkyBlog  BNemboozle!  CTwitch  FGigs
 FL,123,152,200,616,8ff,100
 PN,11002
@@ -56,6 +56,36 @@ OL,19, the pub quiz I went to once where the
 OL,20, tie-breaker was to guess one of the    
 OL,21, bar staff's birthdays!F"HOW ON EARTH   
 OL,22,FAM I SUPPOSED TO KNOW THAT?!?!"        
-OL,23,E``````````````````````````````````` 2/2
+OL,23,E``````````````````````````````````` 2/3
+OL,24,AChunkyBlog  BNemboozle!  CTwitch  FGigs
+FL,123,152,200,616,8ff,100
+PN,11003
+SC,0003
+PS,8000
+CT,8,T
+RE,0
+OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
+OL,1,U0`p0p      p0BG                    Uppp
+OL,2,U) x%|h<4|l j5FThe blocky world   U(,,,,
+OL,3,U hw0j55s j5Fas zine by JamieU`pssssss
+OL,4,E```````````````````````````````````````
+OL,5,Bp176 CHOUSE RENOVATION ROLL CALL       
+OL,6,      C                                 
+OL,7, As some of you know, but some of you   
+OL,8, don't: my last few years have been     
+OL,9, dominated by a house renovation.       
+OL,10,F                                       
+OL,11,FI wanted to say thank youGto the team  
+OL,12, who pulled things back from the brink  
+OL,13, of disaster, doing an incredible job   
+OL,14, since August 2023, after I was left in 
+OL,15, the lurch by the previous builders.    
+OL,17, And seeing as I'm finally getting to   
+OL,18, the point where I can have some fun,   
+OL,19, after years of financial and emotional 
+OL,20, stress, with my multichannel teletext  
+OL,21, UHF distribution system in the attic...
+OL,22,FI'm going to make them each an advert! 
+OL,23,E``````````````````````````````````` 3/3
 OL,24,AChunkyBlog  BNemboozle!  CTwitch  FGigs
 FL,123,152,200,616,8ff,100
