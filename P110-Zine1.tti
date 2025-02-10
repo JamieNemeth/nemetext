@@ -1,6 +1,6 @@
 DE,Zine 1
 DS,inserter
-SP,C:\xampp\htdocs\teletext\services\nemetext\P110-Zine1.tti
+SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P110-Zine1.tti
 PN,11001
 SC,0001
 PS,8000
@@ -62,7 +62,7 @@ FL,123,152,200,616,8ff,100
 PN,11003
 SC,0003
 PS,8000
-CT,8,T
+CT,30,T
 RE,0
 OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
 OL,1,U0`p0p      p0BG                    Uppp
