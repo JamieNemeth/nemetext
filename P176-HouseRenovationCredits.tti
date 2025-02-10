@@ -8,6 +8,7 @@ CT,15,T
 RE,0
 OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
 OL,2,House renovation roll call:             
+OL,3,P176-HouseRenovationCredits.tti         
 OL,4,AJ Williams Electrical                  
 OL,5,HWH Roofing Solutions                   
 OL,6,Huw Phillips Carpentry                  
@@ -52,7 +53,7 @@ FL,110,152,200,616,8ff,100
 PN,17603
 SC,0003
 PS,8000
-CT,8,T
+CT,15,T
 RE,0
 OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
 OL,2,               W                    
