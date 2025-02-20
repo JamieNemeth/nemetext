@@ -1,6 +1,6 @@
 DE,Gigitiser - Jamie's Gig List
 DS,inserter
-SP,C:\xampp\htdocs\teletext\services\nemetext\P616-Gigs.tti
+SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P616-Gigs.tti
 PN,61601
 SC,0001
 PS,8000
@@ -15,15 +15,12 @@ OL,5,Uo~j55  h|~5||jW "//  S)
 OL,6,U       ||5EJAMIE'S GIG LIST  W        
 OL,7,E```````````````````````````````````````
 OL,8,MEFebruary 2025                         
-OL,11, CSaturday 1st February 2025            
+OL,11, CFriday 21st February 2025             
 OL,12, F with The Midnight Fiddle Duo         
-OL,13,   Bonnie Rogues, Swansea               
-OL,15, CSaturday 8th February 2025            
-OL,16, F with The Midnight Fiddle Band        
-OL,17,   Off Grid, Bridgend                   
-OL,19, CSaturday 22nd February 2025           
-OL,20, F with The Midnight Fiddle Duo         
-OL,21,   Taibach RFC, Port Talbot             
+OL,13,   The Brunswick, Swansea               
+OL,15, CSaturday 22nd February 2025           
+OL,16, F with The Midnight Fiddle Duo         
+OL,17,   Taibach RFC, Port Talbot             
 OL,23,E``````````````````````````````````` 1/2
 OL,24,AIndex                                  
 FL,100,8ff,8ff,8ff,8ff,100
