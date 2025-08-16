@@ -1,6 +1,6 @@
 DE,TrekkieText Index
 DS,inserter
-SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P700-TrekkieText.tti
+SP,C:\xampp\htdocs\teletext\services\nemetext\P700-TrekkieText.tti
 PN,70001
 SC,0001
 PS,8000
@@ -19,14 +19,16 @@ OL,9,W             `}~?9#)0
 OL,10,W             "o5e"`%                 
 OL,11,W                ##!#!                  
 OL,12,W                        $              
-OL,13, These are the voyages to bring you the 
-OL,14, original Star Trek TV listings on their
-OL,15, original air dates (in the UK at least)
-OL,16, from the BBC Radio Times archives.     
-OL,18,CP701FTOS Season 1   CP711FTNG Season 1 
-OL,19,CP721FDS9 Season 1   CP731FVOY Season 1 
+OL,13, These are the voyages to create a home 
+OL,14, for Star Trek on teletext!             
+OL,16,DEpisode listings:                      
+OL,17,CP701FTOS Season 1   CP711FTNG Season 1 
+OL,18,CP721FDS9 Season 1   CP731FVOY Season 1 
+OL,19,CP741FENT Season 1                      
+OL,20,D```````````````````````````````````````
 OL,21,CP710EQUIZ: 'The Man Trap' special      
 OL,22,CP799FSources/Credits                   
+OL,23,D```````````````````````````````````````
 OL,24,ATOS      BTNG       CQuiz      FCredits
 FL,701,711,710,799,8ff,700
 PN,70002
@@ -47,14 +49,16 @@ OL,9,      .    Q //%G.W`5 u    Q//%G
 OL,10,    .        We   x'VppW)0G.W`%G     .  
 OL,11,         .   W ###+dV##W8####!G   .     
 OL,12,   .        .     W ####G    .         .
-OL,13, These are the voyages to bring you the 
-OL,14, original Star Trek TV listings on their
-OL,15, original air dates (in the UK at least)
-OL,16, from the BBC Radio Times archives.     
-OL,18,CP701FTOS Season 1   CP711FTNG Season 1 
-OL,19,CP721FDS9 Season 1   CP731FVOY Season 1 
+OL,13, These are the voyages to create a home 
+OL,14, for Star Trek on teletext!             
+OL,16,DEpisode listings:                      
+OL,17,CP701FTOS Season 1   CP711FTNG Season 1 
+OL,18,CP721FDS9 Season 1   CP731FVOY Season 1 
+OL,19,CP741FENT Season 1                      
+OL,20,D```````````````````````````````````````
 OL,21,CP710EQUIZ: 'The Man Trap' special      
 OL,22,CP799FSources/Credits                   
+OL,23,D```````````````````````````````````````
 OL,24,ATOS      BTNG       CQuiz      FCredits
 FL,701,711,710,799,8ff,700
 PN,70003
@@ -74,14 +78,16 @@ OL,8,W +t;! 5##   pp|>/%G    . W px||ppG  .
 OL,9,  W"+/}|~|||//'!h7G   .  Wx'7m0G 
 OL,10, . W"}G   .    W`8'G .    W:##5j 7#+0 
 OL,11,    W"m0G   . W"!G       Q(,W "#### Q(, 
-OL,13, These are the voyages to bring you the 
-OL,14, original Star Trek TV listings on their
-OL,15, original air dates (in the UK at least)
-OL,16, from the BBC Radio Times archives.     
-OL,18,CP701FTOS Season 1   CP711FTNG Season 1 
-OL,19,CP721FDS9 Season 1   CP731FVOY Season 1 
+OL,13, These are the voyages to create a home 
+OL,14, for Star Trek on teletext!             
+OL,16,DEpisode listings:                      
+OL,17,CP701FTOS Season 1   CP711FTNG Season 1 
+OL,18,CP721FDS9 Season 1   CP731FVOY Season 1 
+OL,19,CP741FENT Season 1                      
+OL,20,D```````````````````````````````````````
 OL,21,CP710EQUIZ: 'The Man Trap' special      
 OL,22,CP799FSources/Credits                   
+OL,23,D```````````````````````````````````````
 OL,24,ATOS      BTNG       CQuiz      FCredits
 FL,701,711,710,799,8ff,700
 PN,70004
@@ -102,13 +108,45 @@ OL,9,     .    . W#4  gpp:`,,#!G      .
 OL,10,        W`,4 h!   `xfqG  .              
 OL,11,   .   W(qns,u  `x=a&G           .     
 OL,12,           W#+///#!#!G        .        .
-OL,13, These are the voyages to bring you the 
-OL,14, original Star Trek TV listings on their
-OL,15, original air dates (in the UK at least)
-OL,16, from the BBC Radio Times archives.     
-OL,18,CP701FTOS Season 1   CP711FTNG Season 1 
-OL,19,CP721FDS9 Season 1   CP731FVOY Season 1 
+OL,13, These are the voyages to create a home 
+OL,14, for Star Trek on teletext!             
+OL,16,DEpisode listings:                      
+OL,17,CP701FTOS Season 1   CP711FTNG Season 1 
+OL,18,CP721FDS9 Season 1   CP731FVOY Season 1 
+OL,19,CP741FENT Season 1                      
+OL,20,D```````````````````````````````````````
 OL,21,CP710EQUIZ: 'The Man Trap' special      
 OL,22,CP799FSources/Credits                   
+OL,23,D```````````````````````````````````````
+OL,24,ATOS      BTNG       CQuiz      FCredits
+FL,701,711,710,799,8ff,700
+PN,70005
+SC,0005
+PS,8000
+CT,8,T
+RE,0
+OL,0,        C%%#Sb]DTrekkieTextS$^\ C%y%m.%d
+OL,1,.        W`8,,,,d0G.Q pWpppppppp0G     .
+OL,2,    .   W8! pppp ")0Q"/W,|||<,,,&!G  .  
+OL,3, .    W`& x|0"d  `~'G.          
+OL,4,      W6 ~?# px|t"####k!G    .       
+OL,5,   . W(1*!  "#######a|,l|!G  .       .  
+OL,6,      W5    `~}|| `uG     .   .    
+OL,7,.     W5    "dpp8,, "7G             .
+OL,8,   . W(1    `ppppppp2/,./0G     .       
+OL,9,  .   We     #+////'`ppppzG   .         
+OL,10,    . W"d          `&  "d )0G       .   
+OL,11, .    . W)0      `8!Q`|W,-,.,,,,d0G    .
+OL,12,   .     W"),,,,&!  Q #W########!G    . 
+OL,13, These are the voyages to create a home 
+OL,14, for Star Trek on teletext!             
+OL,16,DEpisode listings:                      
+OL,17,CP701FTOS Season 1   CP711FTNG Season 1 
+OL,18,CP721FDS9 Season 1   CP731FVOY Season 1 
+OL,19,CP741FENT Season 1                      
+OL,20,D```````````````````````````````````````
+OL,21,CP710EQUIZ: 'The Man Trap' special      
+OL,22,CP799FSources/Credits                   
+OL,23,D```````````````````````````````````````
 OL,24,ATOS      BTNG       CQuiz      FCredits
 FL,701,711,710,799,8ff,700
