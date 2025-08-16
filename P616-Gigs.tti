@@ -1,34 +1,10 @@
 DE,Gigitiser - Jamie's Gig List
 DS,inserter
-SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P616-Gigs.tti
+SP,C:\xampp\htdocs\teletext\services\nemetext\P616-Gigs.tti
 PN,61601
-SC,0001
+SC,0000
 PS,8000
 CT,15,T
-RE,0
-OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
-OL,1,U                               W `|t   
-OL,2,U~//*/%    //  //            W *?SH`
-OL,3,U  j55*%j?/%oj%Wx|S~}8!
-OL,4,Ujj555  j5~jW uS2/m 
-OL,5,Uo~j55  h|~5||jW "//  S)
-OL,6,U       ||5EJAMIE'S GIG LIST  W        
-OL,7,E```````````````````````````````````````
-OL,8,MEJuly 2025                             
-OL,11, CFriday 25th July 2025                 
-OL,12, F with The Midnight Fiddle Duo         
-OL,13,   The Bridge, Llangennech              
-OL,15, CSaturday 26th July 2025               
-OL,16, F with The Midnight Fiddle Band        
-OL,17,   Sarn & Bryncwills Social Club,       
-OL,18,   Bridgend                             
-OL,23,E``````````````````````````````````` 1/2
-OL,24,AIndex                                  
-FL,100,8ff,8ff,8ff,8ff,100
-PN,61602
-SC,0002
-PS,8000
-CT,8,T
 RE,0
 OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
 OL,1,U                               W `|t   
@@ -42,6 +18,6 @@ OL,8,MEAugust 2025
 OL,11, CSaturday 30th August 2025             
 OL,12, F with Isembard's Wheel                
 OL,13,   The Globe, Cardiff                   
-OL,23,E``````````````````````````````````` 2/2
+OL,23,E```````````````````````````````````````
 OL,24,AIndex                                  
 FL,100,8ff,8ff,8ff,8ff,100
