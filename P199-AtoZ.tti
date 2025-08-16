@@ -1,6 +1,6 @@
 DE,A to Z
 DS,inserter
-SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P199-AtoZ.tti
+SP,C:\xampp\htdocs\teletext\services\nemetext\P199-AtoZ.tti
 PN,19901
 SC,0001
 PS,8000
@@ -34,13 +34,15 @@ OL,1,Upp  `p0
 OL,2,Uz`p x%                                
 OL,3,Uj  hw0                                
 OL,4,E```````````````````````````````````````
-OL,5,Ux]G SU'^\                              
-OL,6,CStarfleet Command (quiz)...........B710
-OL,9,Ux]G TU'^\                              
-OL,10,C_Teletext50 (blog).................B124
-OL,11,CTrekkieText........................B700
-OL,14,Ux]G ZU'^\                              
-OL,15,C'Zine 1............................B110
+OL,5,Ux]G RU'^\                              
+OL,6,CRenovation Roll Call...............B176
+OL,9,Ux]G SU'^\                              
+OL,10,CStarfleet Command (quiz)...........B710
+OL,13,Ux]G TU'^\                              
+OL,14,C_Teletext50 (blog).................B124
+OL,15,CTrekkieText........................B700
+OL,18,Ux]G ZU'^\                              
+OL,19,C'Zine 1............................B110
 OL,23,E``````````````````````````````````` 2/2
 OL,24,AIndex    BCredits    C'Zine 1     FGigs
 FL,100,198,110,616,8ff,100
