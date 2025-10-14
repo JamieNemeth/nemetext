@@ -1,6 +1,6 @@
 DE,Twitch
 DS,inserter
-SP,D:\xampp\htdocs\teletext\services\nemetext\P200-Twitch.tti
+SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P200-Twitch.tti
 PN,20000
 SC,0000
 PS,8000
@@ -20,10 +20,10 @@ OL,11,Uu~5\G
 OL,12,U############!\G                        
 OL,13,MEANNOUNCEMENTSUjE       CONTENTS       
 OL,15,  Countdown to Uj                       
-OL,16,   Teletext50! UjE201GRecent Categories 
+OL,16, Chunky Fringe!UjE201GRecent Categories 
 OL,17,               UjE204GRecent Followers  
-OL,18,   21st & 22nd UjE205GRecent Subscribers
-OL,19,    September  UjG                      
+OL,18,    Saturday   UjE205GRecent Subscribers
+OL,19,   4th October UjG                      
 OL,20,      2024     UjG                      
 OL,22,D]GM                                    
 OL,24,AIndex  BCategories  CFollowers   FSubs 
