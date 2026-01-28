@@ -1,0 +1,32 @@
+DE,Credits
+DS,inserter
+SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P197-TransmitterInformation.tti
+PN,19701
+SC,0000
+PS,8000
+CT,8,T
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
+OL,2,   UHF Digital  Analogue      Teletext  
+OL,3,   ``` ```````` ````````````` ``````````
+OL,4,F* C21 BBC A   A]G                      
+OL,5,F* C22 ARQ A   A]GTransmitter key:      
+OL,6,F* C24 D3&4    A]FKilvey HillDAlltwen   
+OL,7,F* C25 SDN     A]BPontardawe CInternal  
+OL,8,F* C27 BBC B HDA]]                      
+OL,9,F* C28 ARQ B                            
+OL,10,C* C31          BBC One WalesGNMS Ceefax
+OL,11,B  C33 BBC A                            
+OL,12,F* C34 L-SWA                            
+OL,13,B  C36 D3&4                             
+OL,14,D  C40 BBC B HD                         
+OL,15,D  C43 BBC A                            
+OL,16,D  C46 D3&4                             
+OL,17,B  C48 BBC B HD                         
+OL,18,C* C50          BBC Two WalesGTeefax    
+OL,19,C* C52          ITV1 Wales   GChunkytext
+OL,20,C* C54          S4C          GSPARK     
+OL,21,C* C56          5            GWebfax    
+OL,22,C* C58          Channel 4    GWebfax 2  
+OL,23,AX C60-C69      Unavailable (4G mobile) 
+FL,0,0,0,0,8ff,100
