@@ -1,11 +1,11 @@
 DE,A to Z
 DS,inserter
-SP,C:\xampp\htdocs\teletext\services\nemetext\P199-AtoZ.tti
+SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P199-AtoZ.tti
 PN,19901
 SC,0001
 PS,8000
 CT,15,T
-RE,0
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
 OL,1,Upp  `p0                                
 OL,2,Uz`p x%                                
@@ -28,7 +28,7 @@ PN,19902
 SC,0002
 PS,8000
 CT,15,T
-RE,0
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
 OL,1,Upp  `p0                                
 OL,2,Uz`p x%                                
@@ -40,9 +40,11 @@ OL,9,Ux]G SU'^\
 OL,10,CStarfleet Command (quiz)...........B710
 OL,13,Ux]G TU'^\                              
 OL,14,C_Teletext50 (blog).................B124
-OL,15,CTrekkieText........................B700
-OL,18,Ux]G ZU'^\                              
-OL,19,C'Zine 1............................B110
+OL,15,CTransmitter Information............B197
+OL,16,CTrekkieText Index..................B700
+OL,17,CTwitch Index.......................B200
+OL,20,Ux]G ZU'^\                              
+OL,21,C'Zine 1............................B110
 OL,23,E``````````````````````````````````` 2/2
 OL,24,AIndex    BCredits    C'Zine 1     FGigs
 FL,100,198,110,616,8ff,100
