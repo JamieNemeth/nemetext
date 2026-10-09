@@ -2,9 +2,9 @@ DE,Credits
 DS,inserter
 SP,D:\xampp\htdocs\jamienemeth.co.uk\teletext\services\nemetext\P197-TransmitterInformation.tti
 PN,19701
-SC,0000
+SC,0001
 PS,8000
-CT,8,T
+CT,10,T
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,0,        E%%# Ux]G NemetextU'^\ E%H:%M:%S
 OL,2,   UHF Digital  Analogue      Teletext  
@@ -15,18 +15,46 @@ OL,6,F* C24 D3&4    A]FKilvey HillDAlltwen
 OL,7,F* C25 SDN     A]BPontardawe CInternal  
 OL,8,F* C27 BBC B HDA]]                      
 OL,9,F* C28 ARQ B                            
-OL,10,C* C31          BBC One WalesGNMS Ceefax
-OL,11,B  C33 BBC A                            
-OL,12,F* C34 L-SWA                            
-OL,13,B  C36 D3&4                             
-OL,14,D  C40 BBC B HD                         
-OL,15,D  C43 BBC A                            
-OL,16,D  C46 D3&4                             
-OL,17,B  C48 BBC B HD                         
-OL,18,C* C50          BBC Two WalesGTeefax    
-OL,19,C* C52          ITV1 Wales   GChunkytext
-OL,20,C* C54          S4C          GSPARK     
-OL,21,C* C56          5            GWebfax    
-OL,22,C* C58          Channel 4    GWebfax 2  
-OL,23,AX C60-C69      Unavailable (4G mobile) 
+OL,10,B  C33 BBC A                            
+OL,11,F* C34 L-SWA                            
+OL,12,B  C36 D3&4                             
+OL,13,D  C40 BBC B HD                         
+OL,14,D  C43 BBC A                            
+OL,15,D  C46 D3&4                             
+OL,16,B  C48 BBC B HD                         
+OL,17,C* C50          BBC One WalesGNMS Ceefax
+OL,18,C* C52          BBC Two WalesGTeefax    
+OL,19,C* C54          ITV1 Wales   GChunkytext
+OL,20,C* C56          S4C          GSPARK     
+OL,21,C* C58          5            GNemetext  
+OL,22,C* C60          Channel 4    GWebfax    
+OL,23,A]       G* = tuned frequencies         
 FL,0,0,0,0,8ff,100
+PN,19702
+SC,0002
+PS,8000
+CT,10,T
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,0,        wxTED Header mpp        %H:%M.%S
+OL,2,   UHF Freq     UHF Freq     UHF Freq   
+OL,3,   ``` ````     ``` ````     ``` ````   
+OL,4,C  C21  474     C41  634     C61  794   
+OL,5,   C22  482     C42  642     C62  802   
+OL,6,C  C23  490     C43  650     C63  810   
+OL,7,   C24  498     C44  658     C64  818   
+OL,8,C  C25  506     C45  666     C65  826   
+OL,9,   C26  514     C46  674     C66  834   
+OL,10,C  C27  522     C47  682     C67  842   
+OL,11,   C28  530     C48  690     C68  850   
+OL,12,C  C29  538     C49  698     C69  858   
+OL,13,   C30  546     C50  706                
+OL,14,C  C31  554     C51  714                
+OL,15,   C32  562     C52  722                
+OL,16,C  C33  570     C53  730                
+OL,17,   C34  578     C54  738                
+OL,18,C  C35  586     C55  746                
+OL,19,   C36  594     C56  754                
+OL,20,C  C37  602     C57  762                
+OL,21,   C38  610     C58  770                
+OL,22,C  C39  618     C59  778                
+OL,23,   C40  626     C60  786                
